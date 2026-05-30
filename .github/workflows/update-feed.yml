@@ -1,1 +1,42 @@
+name: Update Canadian research RSS feed
 
+on:
+  schedule:
+    - cron: "15 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate feed
+        env:
+          OPENALEX_MAILTO: ${{ vars.OPENALEX_MAILTO }}
+          FEED_URL: ${{ vars.FEED_URL }}
+          DAYS_BACK: "14"
+          MAX_ITEMS: "100"
+          MIN_SCORE: "4"
+        run: python generate_feed.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml docs/index.html
+          git diff --cached --quiet || git commit -m "Update RSS feed"
+          git push
