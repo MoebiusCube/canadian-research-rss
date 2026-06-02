@@ -8,481 +8,82 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 18:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 16:53:40 +0000</lastBuildDate>
     <item>
-      <title>Maternal Immigrant Status and Mortality in Children With Congenital Heart Disease: A Population‐Based Cohort Study</title>
-      <link>https://doi.org/10.1002/bdr2.70056</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qun Miao, Sandra Dunn, SW Wen, Jane Lougheed, Rebecca Griffiths, Carolina Lavín Venegas, Maria P. Vélez, Mark Walker&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Birth Defects Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada, bc, ontario; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; BACKGROUND: This study examined the association between maternal immigrant status and survival of children with congenital heart diseases (CHD) in Ontario, Canada. METHODS: A retrospective population-based cohort study of hospital live births between April 2002 to September 2020 in Ontario, Canada was conducted at the Institute for Clinical Evaluative Sciences. Multilevel Cox hazard regression models generated hazard ratios (HR) for the association between maternal immigrant status and child death while accounting for hospitals as a cluster factor and adjusting for maternal age at birth, neighborhood income and education quintiles, comorbidities, a composite of severe maternal morbidity, gestational age at birth, birth weight, infant sex and residential rurality among all CHD, severe CHD or single ventricle patients. RESULTS: Among children with any CHD, relative to children born to...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1002/bdr2.70056</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evolutionary and molecular insights into the terpene synthase gene (TPS) family in the medicinal plant Bidens alba</title>
-      <link>https://doi.org/10.1038/s41598-026-55330-1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zhaochu Wang, Xinyu Xu, Peilan Zhang, Xin He, Yousry A. El-Kassaby, Chenzi Zhao, Jing Wang, Rong Shi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Scientific Reports&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Terpenoids are important secondary metabolites in plants, valued for their pharmacological activities and economic significance. Terpene synthases (TPS) serve as the key enzymes in terpenoid biosynthesis. To explore the TPS gene family and their potential functions in Bidens alba, this study conducted a comprehensive analysis of TPS genes based on whole-genome data using bioinformatics approaches. A total of 84 BaTPS genes were identified and unevenly distributed across 37 chromosome-scale scaffolds. Phylogenetic analysis classified these genes into five subfamilies: TPS-a, TPS-b, TPS-c, TPS-e/f, and TPS-g. Among them, the TPS-a and TPS-b subfamilies contained the largest number of members, while the TPS-g showed significant expansion. Further investigation revealed that whole-genome duplication and segmental duplication were the main drivers of BaTPS gene family expansion, with...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1038/s41598-026-55330-1</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Primary care visits are higher amongst adults who report sexual dysfunction concerns after cancer treatment</title>
-      <link>https://doi.org/10.1038/s41598-026-55735-y</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Robin Urquhart, Patience Nishimagizwe, Lynn Lethbridge, Cynthia Kendell&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Scientific Reports&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada, nova scotia; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sexual health concerns are prevalent ongoing effects after cancer treatment. This study examined the association between sexual dysfunction and physician use among adult cancer survivors in Nova Scotia, Canada. We identified all adult survivors of breast, prostate, colorectal, melanoma, and hematological cancers, and all young adult cancer survivors of any invasive cancer, who were diagnosed between 2012 and 2014 from the Nova Scotia Cancer Registry (NSCR). Sexual dysfunction concerns were obtained from the Cancer Transitions Survey using a single question (&amp;quot;How much was this a concern for you?&amp;quot;). This national survey, administered in 2016, explored the experiences of cancer survivors 1-3 years post-cancer treatment. Survey responses were linked to the NSCR and administrative health databases to capture healthcare utilization. Multivariable Poisson and negative binomial regression...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1038/s41598-026-55735-y</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improving sampling efficacy on high dimensional distributions with thin high density regions using Conservative Hamiltonian Monte Carlo</title>
-      <link>https://doi.org/10.1093/pnasnexus/pgag178</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Geoffrey McGregor, Andy T S Wan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; PNAS Nexus&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: hamilton; Canada-related term in abstract: hamilton&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Hamiltonian Monte Carlo is a prominent Markov Chain Monte Carlo algorithm, which employs symplectic integrators to sample from high dimensional target distributions in many applications, such as statistical mechanics, Bayesian statistics and generative models. However, such distributions tend to have thin high density regions, posing a significant challenge for symplectic integrators to maintain the small energy errors needed for a high acceptance probability. Instead, we propose a variant called Conservative Hamiltonian Monte Carlo, using R–reversible energy-preserving integrators to retain a high acceptance probability. We show our algorithm can achieve approximate stationarity with an error determined by the Jacobian approximation of the energy-preserving proposal map and its approximation error due to inexact solutions of implicit schemes. Numerical evidence shows improved...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1093/pnasnexus/pgag178</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can We Generalize About the Mortality Features of the 1918‐19 Influenza Pandemic? An Examination of a Small‐Scale and Isolated British Columbian Population</title>
-      <link>https://doi.org/10.1002/ajhb.70271</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lianne Tripp, Rhys Barber, Charlotte Boorman&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; American Journal of Human Biology&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: british columbia; Canada-related term in abstract: canada, british columbia, bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; OBJECTIVES: In this paper we use the small-scale population of the Fort George area (located in the central interior of British Columbia, Canada) to test the applicability of the three signature mortality features of the 1918/19 influenza pandemic: mortality rates higher than those in preceding influenza epidemics except for the elderly; rapidly recurring waves; and W-shaped age mortality distribution. MATERIALS AND METHODS: Death records from the British Columbia Archives and the University of Northern British Columbia&amp;#x27;s Geoffrey R. Weller Library and Northern BC Archives Learning Resource on 1918 influenza in Prince George (which included the Corless Funeral ledger, the Prince George Citizen, and a Record of Confinements journal) were used to assess the presence of the signature features. Analyses were conducted on monthly influenza death rates for the duration of the influenza...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1002/ajhb.70271</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Negotiating Sharia, Customary Law, and Gender: Feminist Legal Pluralism in the Learo Tradition of Marriage in the Bintauna Community, Indonesia</title>
-      <link>https://doi.org/10.29240/jhi.v11i1.14890</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rizal Darwis, Nurul Mahmudah, Ahmad Faisal, Muhammad Syakir Al Kautsar, Ahmad Fathan Aniq&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Al-ISTINBATH Jurnal Hukum Islam&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The learo tradition in marriage among the Bintauna community of Indonesia reflects the tension between Islamic law, customary law and gender equality. While this practice symbolically honours women, it simultaneously enforces a discriminatory public virginity test, causing psychological distress and gender inequality. This study aims to analyse the learo tradition as a space for negotiation between Sharia law and customary law, to uncover power relations and the politics of women’s bodies, and to propose a framework of feminist legal pluralism centred on women’s voices. This qualitative research was conducted in Bintauna Sub-district (May–July 2023) using semi-structured interviews with 18 respondents (religious leaders, customary leaders, ritual leader (inang), academics, and women practising the tradition) and non-participant observation at five learo ceremonies. Thematic analysis was...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.29240/jhi.v11i1.14890</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wild Edible and Medicinal Plants of Santhal Pargana, Jharkhand: A Field Documentation</title>
-      <link>https://doi.org/10.5281/zenodo.20474854</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kulesh Bhandari&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This report documents 54 species of wild edible and medicinal plants recorded across the Santhal Pargana region of Jharkhand, India, through community surveys, field walks, and ethnobotanical interviews with Santhal and other tribal communities. Species are categorised as wild food, medicinal, or both, and include local names in Santali and Hindi, plant parts used, and field observation notes. Documentation was carried out under the Wild Food Forests Tribal in Jharkhand project, supported by The Pollination Project (TPP), USA. The Santhal Pargana region encompasses the districts of Dumka, Godda, Sahebganj, Pakur, Jamtara, and Deoghar, and harbours significant ethnobotanical diversity that remains underrepresented in formal scientific literature.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20474854</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Registry-Bound LLM Pipeline for Evidence-Grounded Trait Extraction across Tropical Plants, Aquatic Species, and Exotic Pets</title>
-      <link>https://doi.org/10.5281/zenodo.20470364</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jeff Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Companion methodology paper to the Tropical Species Encyclopedia (Wang 2026, substrate data DOI 10.5281/zenodo.20377811; Data Descriptor DOI 10.5281/zenodo.20424981). This paper describes a registry-bound large-language-model extraction pipeline that produced 5,489,881 structured trait records across 409,820 species (99.985%) of the publishable substrate, under a 39-key closed-vocabulary registry covering 18 universal traits + 7 plant + 7 aquatic + 7 pet-specialised traits. Pipeline mechanisms: (1) versioned closed-vocabulary trait registry, (2) per-row verbatim evidence quote, (3) per-row model-assigned confidence label, (4) preservation of all model_versions under a UNIQUE schema constraint. Three-layer validation: at full population, 90.12% of 5,427,588 evidence-bearing rows have their evidence_quote as a verbatim source-text substring (93.49% excluding one compliance meta-trait); a...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20470364</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EduPro Analytics: An Analytical Framework for Understanding Learner Behavior, Enrollment Trends, and Course Performance in Online Learning Platforms</title>
-      <link>https://doi.org/10.5281/zenodo.20472385</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rishi Saran Vennampalli&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This research presents EduPro Analytics, a Streamlit-based educational analytics platform designed to analyze learner demographics, enrollment trends, course performance, and revenue insights within online learning environments. The platform integrates learner, course, and transaction datasets and applies exploratory data analysis techniques to generate actionable business intelligence through interactive dashboards and visualizations. The study demonstrates how data-driven decision-making can improve educational outcomes, optimize course offerings, enhance learner engagement, and support strategic planning for educational institutions and EdTech organizations. The project was developed using Python, Pandas, NumPy, Plotly, and Streamlit. Keywords: Learning Analytics, Educational Data Mining, Streamlit, Python, Data Visualization, Enrollment Analysis, Course Performance Analysis,...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20472385</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patient–Clinician Communication Skills in Dermatology: A Systematic Review</title>
-      <link>https://doi.org/10.1177/12034754261454607</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nujud Al-Jabouri, Michelle Pham, A. Liu, Veronique Lafrance, Renee-Gabrielle Fajardo, Jasmeen Dourka, Ilya Mukovozov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Cutaneous Medicine and Surgery&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1177/12034754261454607</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How We Cope Shapes How We Think: Coping Strategies Differentially Predict Constrained and Freely Moving Thoughts</title>
-      <link>https://doi.org/10.21203/rs.3.rs-9583398/v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Cecilia L. Liu, Mason Li, Julia W. Y. Kam&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Research Square&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.21203/rs.3.rs-9583398/v1</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TSUMS 4.0V: A Generalizable Public-Layer Modular Governance Engine for Multi-Domain Risk Upstreaming, Replayable Disaster Risk Reduction, and Ecological Responsibility</title>
-      <link>https://doi.org/10.5281/zenodo.20475471</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Vlian Ismahasan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; TSUMS 4.0V is a public-layer modular governance engine for risk upstreaming, replayable disaster risk reduction, first-line procedural protection, and ecological responsibility tracking. The framework converts observable weak signals into input traces, warning events, governance states, responsible-role mappings, required records, field evidence chains, replay validation outputs, governance correction pathways, and ecological responsibility trails across high-risk human and environmental systems. This public-layer version discloses modules, pseudocode, routing matrices, validation scope, and boundary controls. It does not disclose proprietary scoring functions, internal weights, operational thresholds, black-box decision logic, enforcement logic, insurance pricing logic, legal liability formulas, carbon-credit certification methods, or MRV methodologies. The manuscript has been...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20475471</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cardiovascular complications and cardiovascular death are rare in severe COVID-19 presenting with myocardial injury or failure</title>
-      <link>https://doi.org/10.21203/rs.3.rs-8682868/v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; CONNOR O’BRIEN, Fatma Gunturkun, Yaowei Deng, Ryan Ruaysungnoen, Donald Chang, Sameer Khanijo, Christopher Barnett, Shikha Kapil et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Research Square&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.21203/rs.3.rs-8682868/v1</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Breakthrough in Peanut T2T Genome Study Injects New Momentum Into Genetic Improvement of the Important Oil Crop</title>
-      <link>https://doi.org/10.1002/moda.70041</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiaobo Wang, Xi Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Modern Agriculture&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1002/moda.70041</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wild Edible and Medicinal Plants of Santhal Pargana, Jharkhand: A Field Documentation</title>
-      <link>https://doi.org/10.5281/zenodo.20474855</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kulesh Bhandari&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This report documents 54 species of wild edible and medicinal plants recorded across the Santhal Pargana region of Jharkhand, India, through community surveys, field walks, and ethnobotanical interviews with Santhal and other tribal communities. Species are categorised as wild food, medicinal, or both, and include local names in Santali and Hindi, plant parts used, and field observation notes. Documentation was carried out under the Wild Food Forests Tribal in Jharkhand project, supported by The Pollination Project (TPP), USA. The Santhal Pargana region encompasses the districts of Dumka, Godda, Sahebganj, Pakur, Jamtara, and Deoghar, and harbours significant ethnobotanical diversity that remains underrepresented in formal scientific literature.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20474855</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Faith Seeking Prompting: Reimagining Theological Education in the Era of Generative AI</title>
-      <link>https://doi.org/10.1111/teth.70033</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jordan Zhixi Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Teaching Theology &amp;amp; Religion&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ABSTRACT By juxtaposing Gutenberg&amp;#x27;s invention of movable type with today&amp;#x27;s generative‐AI “Gutenberg moment,” this article reimagines theological education in the age of AI. It surveys pioneering implementations of AI in theological education, most notably at Acadia Divinity College, and highlights a growing landscape of AI‐driven courses, chatbots, and classroom experimentation amid institutional caution. It then examines a most comprehensive policy discourse to date, Michael Hanegan and Chris Rosser&amp;#x27;s white paper, which urges seminaries to adopt a values‐based, human‐centered approach to AI integration through strategic governance, curricular redesign, and AI‐enabled theological libraries. This article argues that theological education can flourish when it adopts a cyborg partnership model, one that integrates institution‐level AI strategies with classroom‐level innovations. In doing...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1111/teth.70033</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>12‑weeks fisetin supplementation and interval resistance with aerobic training: changes in Maresin‑1 and inflammatory markers in men with obesity: a randomized controlled trial</title>
-      <link>https://doi.org/10.1080/15502783.2026.2679718</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mehran Alipour, Ayoub Saeidi, Keyvan Hejazi, Ismail Laher, Hassane Zouhal&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of the International Society of Sports Nutrition&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1080/15502783.2026.2679718</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Making a CASE for Revisiting Psychopathy and Intelligence in Youth Justice Populations: Implications for RNR and Links to Community Recidivism</title>
-      <link>https://doi.org/10.1177/15412040261449821</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Keira C. Stockdale, Mark E. Olver, Kristine M. Lovatt&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Youth Violence and Juvenile Justice&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The present study examined the interrelations of psychopathy cognitive ability, achievement, and school engagement variables to recidivism in a diverse sample of 417 justice-involved youth court referred for assessment and/or treatment services. The Psychopathy Checklist Youth: Version (PCL: YV) and a set of criminogenic, education, and developmental variables were rated from file; recidivism data were obtained from criminal records. PCL: YV total and most facet scores were inversely related to verbal IQ, unrelated to academic achievement, and strongly associated with school disengagement; however, interpersonal facet scores showed the opposite pattern among male youth. Cox regression survival analyses demonstrated that composite variables reflecting global achievement and school engagement concerns incrementally predicted recidivism outcomes controlling for PCL: YV scores; higher...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1177/15412040261449821</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Treatment and Recidivism Outcomes for Perpetrators of Intimate Partner Violence: A Systematic Review of Typology Research</title>
-      <link>https://doi.org/10.1177/15248380261451842</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Crystal J. Giesbrecht, Leslie Anne Keown, Kaila C. Bruer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Trauma Violence &amp;amp; Abuse&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This systematic review is the first to examine treatment and recidivism outcomes in relation to typologies of perpetrators of intimate partner violence (IPV). Twenty-four ( n = 24) studies presented treatment outcomes for different types of perpetrators, and n = 25 presented recidivism outcomes. Half of the studies that reported treatment ( n = 12) and recidivism ( n = 13) outcomes for different types classified men who used IPV using variations of the family-only/generally violent typology (including two, three, or four groups). Typology studies that examined treatment or recidivism outcomes also differentiated perpetrators by reactive or instrumental violence, severity and frequency of violence, personality type, or treatment responsivity, in addition to other unique typologies. Across various typologies, family-only perpetrators were significantly more likely to complete treatment...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1177/15248380261451842</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Effect of Canagliflozin Dose on Renal and Cardiovascular Outcomes in Type 2 Diabetes and High Cardiovascular Risk</title>
-      <link>https://doi.org/10.1111/dom.70886</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Elias John Elenjickal, Frédéric Baroz, Philippe Boileau, Michael A. Tsoukas, Abhinav Sharma, Thomas A. Mavrakanas&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Diabetes Obesity and Metabolism&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ABSTRACT Introduction Pharmacokinetic data suggest a potential dose‐dependent effect of sodium–glucose co‐transporter‐2 (SGLT‐2) inhibitors on surrogate markers of efficacy, but the impact of SGLT‐2 inhibitor dose on renal and cardiovascular outcomes remains uncertain. Methods In this post hoc analysis, we evaluated the efficacy and safety of two canagliflozin doses (100 and 300 mg) on hard clinical endpoints using participant‐level data from the CANVAS randomised controlled trial (4330 patients). The primary outcome was a composite of doubling of serum creatinine, renal failure, or death due to renal cause. Secondary outcomes included a composite cardiovascular endpoint; hospitalisation for heart failure; all‐cause mortality; and progression or regression of albuminuria. Safety outcomes included serious hyperkalaemia and acute kidney injury. Cox proportional hazards models were used....&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1111/dom.70886</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emerging Houthi–Al-Shabaab co-operation and the growing threat to Red Sea shipping</title>
-      <link>https://doi.org/10.64628/aap.cyt9ms7xh</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Brendon Novel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.64628/aap.cyt9ms7xh</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Composing With the Wind: Strategizing as Situational Attunement</title>
-      <link>https://doi.org/10.1177/08933189261454700</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Boris H. J. M. Brummans, François Cooren, Simon Mallette, Viviane Sergi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Management Communication Quarterly&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Research on strategy as practice (SAP) has become a vibrant area of inquiry, but what do people actually do when engaging in strategizing in everyday situations? Drawing on insights from CCO scholarship and practice theory, this paper addresses that question by highlighting situational attunement as an important aspect of strategizing, which unfolds through communicative practices that make responsiveness to what a situation calls for observable, thereby bridging immediate conditions with evolving aims. Situational attunement, in other words, involves sensing what matters in the moment and acting with others who are also shaping the evolving relational field. The value of this concept is illustrated through an ethnography of a female entrepreneur’s communicative practices in a small Icelandic village during and after the COVID-19 pandemic. Thus, this paper contributes to SAP scholarship...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1177/08933189261454700</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Determinants of Immunization Practice among Frontline Healthcare Workers in Sub-Saharan Africa: A Rural–Urban Comparative Cross-Sectional Study from North-Central Nigeria</title>
-      <link>https://doi.org/10.21203/rs.3.rs-9845584/v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Moses Luke, Folajinmi Oluwasina, Shaibu Joseph, Jacob Ojedokun, Chibuike Ogbonnaya, Babade Ojo, Achor Olaitan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Research Square&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.21203/rs.3.rs-9845584/v1</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peak performance is repeatable and captures large individual differences in ruby-throated hummingbirds</title>
-      <link>https://doi.org/10.64898/2026.05.29.728840</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Emilie C. Gagnon, Juan Camilo Ríos‐Orjuela, Lacey Pilon, Percy Hentschel, Alexa Dansereau, Paolo S. Segre, Roslyn Dakin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; bioRxiv (Cold Spring Harbor Laboratory)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Locomotor performance often determines the outcome of interactions with competitors, predators, and prey. In flying animals, the asymptotic load-lifting assay measures maximal muscle power output in vertical flight. Previous studies of small birds have shown that load-lifting performance is linked to flight maneuverability and the outcome of competitive species interactions. Here, we quantify sources of performance variation within a species, namely repeatability, and determine the number of trials that accurately capture individual differences. We conducted 124 load-lifting trials on 13 wild-caught male ruby-throated hummingbirds (Archilochus colubris), testing each individual repeatedly over a 3-day period. We report large individual differences in peak performance, with 70% of the total variation in lifted mass attributed to differences among males. Notably, these differences in...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.64898/2026.05.29.728840</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supporting Self-Regulated Learning in Medical Education: The Role of Supervision and Self-Determined Practice in Simulation – A 2 by 2 Factorial Cluster Randomized Controlled Trial</title>
-      <link>https://doi.org/10.21203/rs.3.rs-9609525/v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Laura Walker, Maisha Tasnim Chowdhury, R Brydges, ETHAN SHAMIS, Kevin E. Thorpe, Rebecca Wang, S Wang, CATHERINE H. YU&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Research Square&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.21203/rs.3.rs-9609525/v1</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Women and the Dutch tea industry: revisiting the archives to reframe a narrative</title>
-      <link>https://doi.org/10.1080/22243534.2025.2530610</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. Kappert, Lysbeth Vink&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Research in Hospitality Management&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1080/22243534.2025.2530610</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TSUMS 4.0V: A Generalizable Public-Layer Modular Governance Engine for Multi-Domain Risk Upstreaming, Replayable Disaster Risk Reduction, and Ecological Responsibility</title>
-      <link>https://doi.org/10.5281/zenodo.20475470</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Vlian Ismahasan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; TSUMS 4.0V is a public-layer modular governance engine for risk upstreaming, replayable disaster risk reduction, first-line procedural protection, and ecological responsibility tracking. The framework converts observable weak signals into input traces, warning events, governance states, responsible-role mappings, required records, field evidence chains, replay validation outputs, governance correction pathways, and ecological responsibility trails across high-risk human and environmental systems. This public-layer version discloses modules, pseudocode, routing matrices, validation scope, and boundary controls. It does not disclose proprietary scoring functions, internal weights, operational thresholds, black-box decision logic, enforcement logic, insurance pricing logic, legal liability formulas, carbon-credit certification methods, or MRV methodologies. The manuscript has been...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20475470</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Examining Factors that Influence Preservice and In-Service Teachers’ Intention to Intervene in Cissexist and Heterosexist Victimization</title>
-      <link>https://doi.org/10.1080/15388220.2026.2678179</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Natalie Spadafora, Wendy M. Craig, Laura J. Lambe, Alexa Martin-Storey, Ann H. Farrell&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of School Violence&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1080/15388220.2026.2678179</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EduPro Analytics: An Analytical Framework for Understanding Learner Behavior, Enrollment Trends, and Course Performance in Online Learning Platforms</title>
-      <link>https://doi.org/10.5281/zenodo.20472386</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rishi Saran Vennampalli&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This research presents EduPro Analytics, a Streamlit-based educational analytics platform designed to analyze learner demographics, enrollment trends, course performance, and revenue insights within online learning environments. The platform integrates learner, course, and transaction datasets and applies exploratory data analysis techniques to generate actionable business intelligence through interactive dashboards and visualizations. The study demonstrates how data-driven decision-making can improve educational outcomes, optimize course offerings, enhance learner engagement, and support strategic planning for educational institutions and EdTech organizations. The project was developed using Python, Pandas, NumPy, Plotly, and Streamlit. Keywords: Learning Analytics, Educational Data Mining, Streamlit, Python, Data Visualization, Enrollment Analysis, Course Performance Analysis,...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20472386</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Non-fungible tokens as a bridge for integrated healthcare supply chains: an innovative approach focused on interoperability</title>
-      <link>https://doi.org/10.1016/j.tre.2026.104968</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ghassan Al-Sumaidaee, Rami Alkhudary, Željko Žilić, Pierre Féniès, Srinivas Talluri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Transportation Research Part E Logistics and Transportation Review&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; • Address interoperability limits in healthcare supply chains. • Use NFTs as identifiers that reference patient data distributed across multiple blockchains. • Propose a Selective Trust Architecture, with patient-controlled access via token ownership. • Introduce the concept of Layer-2 Interoperability in decentralized healthcare systems. • Link artifact design to theory development in blockchain and trust research.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.tre.2026.104968</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seasonal profiles of circulating steroids and brain steroid‐related gene expression in &lt;i&gt;Gymnotus omarorum&lt;/i&gt; , a wild fish with year‐round territorial aggression</title>
-      <link>https://doi.org/10.1111/jne.70205</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; G. Valiño, C. Jalabert, J. Farías, J. R. Sotelo‐Silveira, K. K. Soma, L. Quintana&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Neuroendocrinology&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Gymnotus omarorum is a teleost fish in which both males and females maintain territorial aggression year‐round, despite exhibiting a seasonal reproductive cycle. This provides a unique opportunity to examine seasonal neuroendocrine mechanisms across reproductive states. As a teleost, G. omarorum extends our understanding of these neuroendocrine patterns beyond birds and mammals, offering a comparative framework for investigating seasonal neuroendocrine reorganization across the vertebrate reproductive cycle. We quantified eight circulating steroids by LC–MS/MS and measured the expression of steroid‐related genes (aromatase, estrogen receptors, and an androgen receptor) by qRT‐PCR in three nuclei of the social behavior network in wild breeding and non‐breeding males and females. Circulating 11‐ketotestosterone in males and estrogens in females showed no marked seasonality. In...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1111/jne.70205</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mirrors, labour, and contested ground: Tourism research at the intersection of heritage, resistance, and crisis: Editors-in-chief notes</title>
-      <link>https://doi.org/10.1177/14687976261455234</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Chin Ee Ong, Susan Frohlick&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tourist Studies&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1177/14687976261455234</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Termination-engineered high-entropy MXenes as bifunctional catalysts for shuttle suppression in aluminum-sulfur batteries</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2026.240419</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Saba Khan, Rahul Koka, Tanveer Hussain, Nacir Tit, Chandra V. Singh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Power Sources&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Rechargeable Al-S batteries are attractive for scalable energy storage because Al and S are abundant and low cost, but their performance is limited by soluble polysulfide shuttling and sluggish conversion kinetics. Here, we use first-principles calculations to investigate termination-engineered high-entropy (HE) MXenes with -O, -OH, and mixed -O/-OH (“M”) terminations as multifunctional cathode additives for simultaneous polysulfide immobilization and catalytic conversion. Ab-initio molecular dynamics confirms the structural stability of all HE-MXene variants at 300 K, while projected density of states shows preserved metallic conductivity for efficient charge transport. Adsorption calculations for Al-polysulfides (Al 2 S 3 , Al 2 S 6 , Al 2 S 12 , Al 2 S 18 , and S 8 ) reveal consistently stronger binding on HE-MXenes than in DOL/DME electrolytes, indicating a thermodynamic driving...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.jpowsour.2026.240419</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hair Loss in Patients With Attention-Deficit/Hyperactivity Disorder: A Systematic Review</title>
-      <link>https://doi.org/10.1177/12034754261455477</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; H. Vaseli, Abdul Aziz Abdul Ghafoor, Mahan Maazi, Jeffrey Donovan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Cutaneous Medicine and Surgery&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1177/12034754261455477</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supervivencia y complicaciones de los frameworks de Poliéter-éter-cetona de arco completo en prótesis implantosoportadas tipo All-on-X</title>
-      <link>https://doi.org/10.56162/transdigital616</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Wilmer Antonio Gómez Paulino, Emma Patricia Mercado López, Erides Enrique Atencio González, Hernán Enrique Juarez Flores&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Transdigital&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Las complicaciones protésicas en rehabilitaciones All-on-X están relacionadas con el material del framework. El poliéter-éter-cetona (PEEK) es una alternativa innovadora, pero su desempeño clínico aún no está establecido. Por lo anterior, el objetivo del trabajo fue analizar la supervivencia clínica y las complicaciones protésicas del uso de frameworks de PEEK en prótesis implantosoportadas tipo All-on-X mediante una revisión sistemática. La revisión sistemática se llevó a cabo en cuatro fases y estuvo compuesta por publicaciones científicas identificadas sobre esta temática, y que cumplieron con los criterios de inclusión y exclusión establecidos. Los resultados demostraron que existen pocos estudios clínicos de seguimiento protésico o implantario, de los cuales, los in vitro o Finite Element Analysis (FEA) son los más comunes. Asimismo, la mayoría de los estudios clínicos mostraron...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.56162/transdigital616</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Registry-Bound LLM Pipeline for Evidence-Grounded Trait Extraction across Tropical Plants, Aquatic Species, and Exotic Pets</title>
-      <link>https://doi.org/10.5281/zenodo.20470365</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jeff Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Companion methodology paper to the Tropical Species Encyclopedia (Wang 2026, substrate data DOI 10.5281/zenodo.20377811; Data Descriptor DOI 10.5281/zenodo.20424981). This paper describes a registry-bound large-language-model extraction pipeline that produced 5,489,881 structured trait records across 409,820 species (99.985%) of the publishable substrate, under a 39-key closed-vocabulary registry covering 18 universal traits + 7 plant + 7 aquatic + 7 pet-specialised traits. Pipeline mechanisms: (1) versioned closed-vocabulary trait registry, (2) per-row verbatim evidence quote, (3) per-row model-assigned confidence label, (4) preservation of all model_versions under a UNIQUE schema constraint. Three-layer validation: at full population, 90.12% of 5,427,588 evidence-bearing rows have their evidence_quote as a verbatim source-text substring (93.49% excluding one compliance meta-trait); a...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20470365</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HAMNet: Hierarchical Multi-scale Attention Network for precise disease detection in pearl millet using spatial fusion</title>
-      <link>https://doi.org/10.1038/s41598-026-53453-z</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Ramya, D. Pradeep&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Scientific Reports&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Pearl millet is a vital crop in arid and semi-arid regions, but its productivity is significantly impacted by fungal and bacterial diseases. Traditional disease detection methods, including manual inspection and conventional machine learning techniques, often suffer from inefficiencies due to subjectivity, time consumption, and limited feature extraction capabilities. Deep learning-based segmentation models such as U-Net, SegNet, DeepLabV3, and FCN have been employed to automate disease identification, but they exhibit limitations in accurately localizing disease-affected regions, handling complex spatial patterns, and maintaining high segmentation precision. To address these challenges, this study proposes HAMNet-Mask R-CNN, an AI-powered hierarchical multi-scale attention network integrated with a spectral-spatial fusion module for precise pearl millet disease detection. The novel...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1038/s41598-026-53453-z</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI - Study and Research in History, Opportunities &amp; Challenges</title>
-      <link>https://doi.org/10.5281/zenodo.20067929</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; NG. Prakasha, Ramesha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Today Artificial Intelligence emerging as a strong force across the globe. AI is reshaping traditional paradigms through personalized learning environments, intelligent tutoring systems, data-driven research, and automated administrative processes in higher education. No doubt these innovations promise to enhance efficiency, accessibility, and academic excellence in all the fields. At the same time also raise the questions about ethics, equity, and the preservation of essential human values. Though AI is great a finding, it still struggles with nuanced human motivation, cultural context, and ethical judgment that remain the core of the historian&amp;#x27;s craft. AI technology is not limited to the technical field, it is revolutionizing the study and historical researches also. However, AI does not have the ability to think and work with emotions like human. In this backdrop present article...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20067929</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI - Study and Research in History, Opportunities &amp; Challenges</title>
-      <link>https://doi.org/10.5281/zenodo.20067928</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; NG. Prakasha, Ramesha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Today Artificial Intelligence emerging as a strong force across the globe. AI is reshaping traditional paradigms through personalized learning environments, intelligent tutoring systems, data-driven research, and automated administrative processes in higher education. No doubt these innovations promise to enhance efficiency, accessibility, and academic excellence in all the fields. At the same time also raise the questions about ethics, equity, and the preservation of essential human values. Though AI is great a finding, it still struggles with nuanced human motivation, cultural context, and ethical judgment that remain the core of the historian&amp;#x27;s craft. AI technology is not limited to the technical field, it is revolutionizing the study and historical researches also. However, AI does not have the ability to think and work with emotions like human. In this backdrop present article...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20067928</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>On Efficient Approximate Aggregate Nearest Neighbor Queries over Learned Representations</title>
-      <link>https://hal.science/hal-05394057</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Wang, Carrie, Amer-Yahia, Sihem, Lakshmanan, Laks, Cheng, Reynold&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; HAL (Le Centre pour la Communication Scientifique Directe)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; International audience&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://openalex.org/W7112659727</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perioperative Apalutamide in High-Risk Localized Prostate Cancer</title>
-      <link>https://doi.org/10.1056/nejmoa2603878</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mary-Ellen Taplin, Martin Gleave, Neal D. Shore, Angela Lopez-Gitlitz, Alexander Kretschmer, Eleni Efstathiou, Paul L. Nguyen, Ronaldo Damião et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; New England Journal of Medicine&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1056/nejmoa2603878</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi‐Hazard Shaking‐Tsunami Fatality Risk Estimation for Coastal Communities</title>
-      <link>https://doi.org/10.1002/eqe.70220</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Katsuichiro Goda&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Earthquake Engineering &amp;amp; Structural Dynamics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada, vancouver&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ABSTRACT This study develops a multi‐hazard fatality risk model for a coastal community (Tofino) on Vancouver Island, Canada, subjected to earthquake‐tsunami threats from the Cascadia subduction megathrust events. The model incorporates variable population distributions and uncertain fatality rate models, in addition to other key model components, such as time‐dependent earthquake occurrence, stochastic rupture source, ground motion simulation, and tsunami inundation simulation. Using the developed risk model, exceedance frequency ( F ) plots in terms of the number of anticipated fatalities ( N ) are derived for single‐hazard and multi‐hazard cases. The F ‐ N curves can be used for evaluating the adequacy of current earthquake‐tsunami risk situations, compared with the acceptable risk tolerability limits. The obtained F ‐ N curves for Tofino intersect with the local scrutiny line set by...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1002/eqe.70220</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Structured exercise program following adjuvant chemotherapy for colon cancer: A cost-utility analysis of the CHALLENGE trial</title>
-      <link>https://doi.org/10.1200/jco-26-00765</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kelvin KW. Chan, Ryan WK. Chu, Matthew C. Cheung, K S Courneya, Christopher J. O&amp;#x27;Callaghan, Janette L. Vardy, Sharlene Gill, Christine Friedenreich et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Clinical Oncology&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; PURPOSE: The phase III CHALLENGE trial (CCTG CO.21) demonstrated that a 3-year structured exercise program (SEP) improved disease-free and overall survival versus health education materials (HEM) in patients with stage III or high-risk stage II colon cancer after surgery and adjuvant chemotherapy. We assessed the cost-effectiveness of the SEP versus HEM. METHODS: This pre-specified economic evaluation used prospectively collected data from all trial participants (n = 889). The base case adopted the Canadian public payer perspective and included direct healthcare costs over a 5-year time horizon with a 1.5% discount rate. 36-Item Short Form (SF-36) outcomes were mapped to Short-Form 6-Dimension (SF-6D) utilities using a validated algorithm. Mean costs (2024 CAD) and effects (life-years (LYs) and quality-adjusted life-years (QALYs)) per participant in each intervention group were used to...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1200/jco-26-00765</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ciencia Abierta y Wikimedia en Argentina. Experiencias del Equipo de Wikimedistas de la Universidad Nacional de La Plata</title>
-      <link>https://doi.org/10.5281/zenodo.20476731</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jorge Julián Cueto, Fernando Archuby, Miguel Ángel Zubimendi, Marien Béguelin, Laura Mariana Casareto, María Huarte Bonnet, Matías Giglio, Bárbara Navazo et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; [326] Este registro corresponde a la versión final corregida del resumen ampliado presentado al 2do. Congreso Iberoamericano de Ciencia Abierta 2025 (CIbCA2025). Esta versión incorpora ajustes realizados por las personas autoras a partir de las revisiones abiertas recibidas en PREreview. Número de postulación CIbCA2025: 326Línea temática: Desarrollo de habilidades, procesos de sensibilización y divulgaciónVersión previa en Zenodo: https://doi.org/10.5281/zenodo.17576221Revisión abierta en PREreview: https://prereview.org/preprints/doi-10.5281-zenodo.17576221Este trabajo forma parte del flujo PRC (Publicar–Revisar–Curar) del CIbCA2025.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20476731</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada should invest in nature as critical infrastructure</title>
-      <link>https://doi.org/10.64628/aam.t9cgccems</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nina-Marie Lister&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.64628/aam.t9cgccems</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Your letter has been forwarded for consideration’: A health expert on 4 ways Ottawa and Alberta avoid accountability</title>
-      <link>https://doi.org/10.64628/aam.nnresjr9h</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aleksandra Mineyko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: alberta, ottawa&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.64628/aam.nnresjr9h</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smart sensors could help Canada tackle its $58-billion food waste problem</title>
-      <link>https://doi.org/10.64628/aam.5v3phkuau</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Md Masuduzzaman, Elkafi Hassini&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.64628/aam.5v3phkuau</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interpreting Ultrasound Molecular Imaging Microbubble Signals in Complex Biological Environments Using Physics-Informed Artificial Intelligence</title>
-      <link>https://doi.org/10.5281/zenodo.20475275</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kossivi Denanyoh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada, british columbia, victoria; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Kossivi Denanyoh is an independent AI ultrasound researcher based in Victoria, British Columbia, Canada, and formerly affiliated with the University of Victoria. His research focuses on physics-informed artificial intelligence for ultrasound molecular imaging (UMI), including temporal modeling of microbubble dynamics, molecular signal separation, and tissue-conditioned acoustic biomarkers.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20475275</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Evaluation of New Snow Interception and Ablation Parameterisations in Continental, Subarctic and Maritime Needleleaf Forests</title>
-      <link>https://doi.org/10.1002/hyp.70573</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alex C. Cebulski, John W. Pomeroy, William C. Floyd&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Hydrological Processes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada, alberta, british columbia, bc; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ABSTRACT Snow interception by forest canopies occurs over 23% of the global land surface, influencing both subcanopy snow accumulation and land‐surface energy exchanges. The processes governing snow interception are strongly influenced by both meteorological conditions and canopy density, resulting in differing process emergence in distinctive climates, seasons and forest types. Recent studies have revealed new relationships to represent snow interception and canopy snow ablation processes with potential applicability across a broader range of canopy structures and climatic conditions. To assess the effectiveness of these new parameterisations, they were implemented in the Cold Regions Hydrological Modelling platform as a new module called CanSnow, and evaluated against observations of snow water equivalent within and beneath the canopy at four sites in western and northern Canada: two...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1002/hyp.70573</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interpreting Ultrasound Molecular Imaging Microbubble Signals in Complex Biological Environments Using Physics-Informed Artificial Intelligence</title>
-      <link>https://doi.org/10.5281/zenodo.20475274</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kossivi Denanyoh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada, british columbia, victoria; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Kossivi Denanyoh is an independent AI ultrasound researcher based in Victoria, British Columbia, Canada, and formerly affiliated with the University of Victoria. His research focuses on physics-informed artificial intelligence for ultrasound molecular imaging (UMI), including temporal modeling of microbubble dynamics, molecular signal separation, and tissue-conditioned acoustic biomarkers.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20475274</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Framing Decolonization: Case Study of the Pan‐Canadian Framework on Clean Growth and Climate Change</title>
-      <link>https://doi.org/10.1111/puar.70153</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; River Doxtator, Jennifer Wallner, Lydia Zhou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Public Administration Review&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canadian; Canada-related term in abstract: canada, canadian, first nations, inuit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ABSTRACT This article considers the relationship between formal policy discourse and dynamics of decolonization. Initiatives of decolonization implicate the political status of Indigenous peoples, wherein peoples can be understood as agents or dependents within the state. Adapting Schneider and Ingram&amp;#x27;s model of social constructions, informed by the political sociology of policy instruments, and drawing upon Two‐Eyed Seeing, we theorize that agent‐frames lend support to decolonization, whereas dependent‐frames could undermine decolonization. To illuminate this approach, we assess the Pan‐Canadian Framework on Clean Growth and Climate Change. Applying interpretations of frames institutionalized in the text from diverse First Nations, Inuit and Métis communities and scholars across Canada, data indicates that most references to Indigenous Peoples reflect a dependent‐ frame while also...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1111/puar.70153</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobility tools in pre- and post-COVID Toronto: ownership patterns and model transferability</title>
-      <link>https://doi.org/10.1016/j.tbs.2026.101323</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mwendwa Kiko, Eric J. Miller&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Travel Behaviour and Society&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: toronto; Canada-related term in abstract: canada, ontario&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The reliability of travel behaviour forecasts depends heavily on the temporal stability of their sub-models, such as those for mobility tools ownership. The COVID-19 pandemic introduced a major structural shock to urban travel behaviour, raising important questions about the temporal stability and transferability of mobility tools ownership models. This study examines changes in household mobility tool ownership and model transferability between the pre- and post-COVID eras using data from the 2016 and 2022 Transportation Tomorrow Surveys in the Greater Golden Horseshoe region of Ontario, Canada. A bivariate ordered probit model is estimated to jointly model household car ownership and public transit pass ownership, accounting for socio-demographic characteristics, built environment factors, accessibility measures, daily activity patterns, and survey mode effects. Temporal...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.tbs.2026.101323</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preserved primordial material detected in a Centaur coma 9 au from the Sun</title>
-      <link>https://doi.org/10.21203/rs.3.rs-9857535/v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; E. Lilly, Charles Schambeau, Rosario Brunetto, Sasha Cryan, Dominique Bockelee-Morvan, Michael Kelley, Audrey Thirouin, Marco Micheli et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Research Square&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.21203/rs.3.rs-9857535/v1</guid>
+      <title>Cement-stabilized marine clay under thermal cycling: strength, suction, and microstructure</title>
+      <link>https://doi.org/10.1186/s40703-026-00273-9</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zhe Liu, Mamadou Fall&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; International Journal of Geo-Engineering&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract This study investigates the influence of realistic summer daily thermal cycles on the mechanical, hydraulic, and microstructural properties of cement-stabilized sensitive marine clay (SMC), a problematic marine soil widely found in Eastern Canada. SMC samples treated with 5% and 20% cement were subjected to two curing regimes: constant temperature (20 °C) and simulated daily thermal cycles, and tested after 1, 3, 7, and 28 days of curing. Unconfined compressive strength (UCS) and secant modulus tests were performed to assess mechanical performance, while matric suction monitoring, thermogravimetric analysis (TG/DTG), and mercury intrusion porosimetry (MIP) were used to evaluate hydration behavior and microstructural evolution. Results show that daily thermal cycles significantly accelerate strength and stiffness development at early curing stages by enhancing cement hydration,...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1186/s40703-026-00273-9</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>An Atypical Case of Respiratory Distress in a Newborn</title>
-      <link>https://doi.org/10.1542/pir.2025-007033</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Marie-Laure Oberweis, Matthew Magyar, Maude Paquette&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Pediatrics in Review&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1542/pir.2025-007033</guid>
+      <title>Genetic associations between mid-infrared-predicted methane production and heat tolerance of production traits in dairy cattle</title>
+      <link>https://doi.org/10.3168/jds.2026-28568</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gabriella R. Dodd, Flavio S. Schenkel, Christine F. Baes, F. Malchiodi, Caeli Richardson, F. Miglior&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Dairy Science&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada, canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &amp;lt;h2&amp;gt;ABSTRACT&amp;lt;/h2&amp;gt; The future direction of the dairy industry is breeding cattle that have low environmental impact and are resilient when faced with environmental perturbations. In Canada, genetic selection for reduced environmental impact is partly based on methane production predicted from mid-infrared spectroscopy data (MP&amp;lt;sub&amp;gt;MIR&amp;lt;/sub&amp;gt;). While relationships between MP&amp;lt;sub&amp;gt;MIR&amp;lt;/sub&amp;gt; and production have been previously reported, correlations between heat tolerance of production traits and MP&amp;lt;sub&amp;gt;MIR&amp;lt;/sub&amp;gt; have not been studied. The objectives of this study were to 1) estimate genetic correlations between MP&amp;lt;sub&amp;gt;MIR&amp;lt;/sub&amp;gt; and heat tolerance defined by milk yield (MY), fat yield (FY), and protein yield (PY), and 2) evaluate how these relationships change across the lactation. Data comprised 7,714,324 MY, 7,128,396 FY, 7,177,657 PY, and 1,017,436 MP&amp;lt;sub&amp;gt;MIR&amp;lt;/sub&amp;gt; records collected on...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.3168/jds.2026-28568</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Femoral nerve palsy in brace treatment for developmental dysplasia of the hip</title>
-      <link>https://doi.org/10.1302/0301-620x.108b6.bjj-2025-1550.r1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Emily K. Schaeffer, A Y Wang, Jack Hu, Vuong Nguyen, Wudbhav N. Sankar, Nicole Williams, Kishore Mulpuri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Bone &amp;amp; Joint Journal&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Aims Femoral nerve palsy is a potential complication of brace treatment for children with developmental dysplasia of the hip (DDH). Little is known about its causes, and previous studies have been limited by their small sample size, retrospective design, and/or being single-centre series. The aim of this study was to examine the risk factors for femoral nerve palsy in the largest prospective cohort of children to date with DDH treated using an orthosis. Methods A global multicentre prospective database of children with DDH was analyzed. Those treated primarily using an orthosis were included. Mixed-effects logistic regression was used to identify risk factors for the development of femoral nerve palsy, including sex, age at the time of diagnosis and application of an orthosis, the type of orthosis, the location of the femoral head, femoral head cover, and α angle. Both univariate and...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1302/0301-620x.108b6.bjj-2025-1550.r1</guid>
+      <title>Barriers and facilitators to cooling access during extreme heat events: a qualitative study</title>
+      <link>https://doi.org/10.5864/d2026-006</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sally Radisic, Hala Nayef&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Environmental Health Review&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: ontario, hamilton&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objective As extreme heat events (EHEs) increase with climate change, it is important to support cooling access by older adults ≥ 65 years of age to prevent heat-related morbidity and mortality. This study aimed to identify barriers and facilitators to cooling access during EHEs and support equity-focused public health programs. Study Design A qualitative descriptive study design was adopted. Methods We conducted 13 focus groups via purposive sampling of older adults ≥ 65 years of age in the City of Hamilton (Hamilton), Ontario and analyzed the data using thematic analysis. Using the six constructs of the Health Belief Model (HBM) themes were identified inductively to understand the barriers and facilitators to cooling access during EHEs. Results Experiential knowledge, age-related risk and health protection were themes identified for HBM’s first three constructs. The theme of...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.5864/d2026-006</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Barriers and facilitators to interest-holder engagement in health guideline development: a qualitative evidence synthesis</title>
-      <link>https://doi.org/10.1177/189118032614358</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Olivia Magwood, Jennifer Petkovic, Lyubov Lytvyn, Joanne Khabsa, Andrea Raymond, Marisha Palm, Danielle Pollock, Pauline; id_orcid 0000-0002-5879-5526 Campbell et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; ResearchOnline (Glasgow Caledonian University)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background&amp;lt;br/&amp;gt;Health guidelines are important resources for informing decisions made by health practitioners, patients, caregivers, policymakers, and other interest-holders. Interest-holder engagement in health guideline development can improve the relevance of recommendations, promote considerations of equity, and support implementation. To facilitate efficient and effective health guideline development, there is a need for a comprehensive, global, evidence-based guidance for interest-holder engagement in guideline development. This paper synthesises the barriers and facilitators to interest-holder engagement in guideline development. Several systematic reviews have examined the topic of interest-holder engagement in guideline development, but few have explicitly focused on barriers and facilitators to engagement and the majority of these were related to patients. With increased...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1177/189118032614358</guid>
+      <title>Asymmetric niche partitioning in large omnivores in response to anthropogenic disturbances within subarctic ecosystems</title>
+      <link>https://doi.org/10.1111/1365-2656.70285</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ludovick Brown, Chrystal Mantyka‐Pringle, Joël Potié, Pascale Savage, Megan Hornseth, Jason T. Fisher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Animal Ecology&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: yukon&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Niche partitioning is an evolutionary process that allows the coexistence of multiple species in a landscape. However, human disturbance can interfere with this process. For instance, humans may displace competitors and favour species with a greater tolerance for disturbances. American black bears (Ursus americanus) and grizzly bears (U. arctos) are two large omnivores that share similar ecological niches, but that can also coexist by partitioning resources. Understanding the consequences of anthropogenic disturbance on niche partitioning in these two species is important to preserve biodiversity and ecosystem function. This importance is particularly relevant in landscapes located in subarctic biomes where resource availability is limited. In this study, we used data from wildlife cameras deployed at 194 sites in central Yukon during 2020-2023 to determine whether anthropogenic...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1111/1365-2656.70285</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Copper Green Pigments in 17th Century Atlases</title>
-      <link>https://doi.org/10.1515/res-2025-0027</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Christa Hofmann, Viktoria Thaller, Maria Katharina Plate, Dubravka Jembrih-Simbürger, Maurizio Aceto, Karin Whitmore, Johannes Bernhardi, Sonja Schiehser et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Restaurator International Journal for the Preservation of Library and Archival Material&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract In a conservation project at the Austrian National Library, the condition of green colouration with copper-based pigments on printed maps was assessed in 163 atlases from the 17th century. The pigments of the atlases were characterised by copper indicator papers, XRF, and FORS. The condition of the cellulose fibres was studied with optical microscopy, SEM, and cellulose analysis with carbonyl group labelling. Based on the study of painters’ manuals for the green colouration of maps, test specimens were prepared, treated and submitted to accelerated ageing. The test specimens were evaluated visually, with optical microscopy, colour measurements, and cellulose analysis. The addition of alum and vinegar to solutions of verdigris produced degradation on flax-hemp paper comparable to the degradation observed on copper-green colouration in 17th century atlases. Nine atlases with...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1515/res-2025-0027</guid>
+      <title>Technical note: Disentangling pre- and post-depositional thermal histories in partially reset samples</title>
+      <link>https://doi.org/10.5194/egusphere-2026-2376</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Birk Härtel, Eva Enkelmann, Akeek Maitra&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract. Interpreting thermochronological data of a partially reset detrital sample is challenging because its age distribution reflects a mixture of each grain’s individual pre-depositional and the shared post-depositional thermal history. A promising approach to meet this challenge is combined geo- and thermochronological dating on the same grains. We present an algorithm for disentangling the pre- and post-depositional thermal histories using data from zircon U/Pb-(U-Th)/He double-dating. It proceeds in three steps: (1) determining candidate post-depositional temperature-time paths by inverse thermal-history modeling of syn-depositional grains. (2) Calculating pre-depositional (U-Th)/He model ages for each candidate thermal history. (3) Evaluating the likelihood for each post-depositional history by testing if resulting pre-depositional model ages against the U-Pb crystallization...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.5194/egusphere-2026-2376</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Caregiver Attitudes, Motivations and Care Quality in Residential Memory Care: a Scoping Review Protocol.</title>
-      <link>https://doi.org/10.5770/cgj.29.901</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sarah Maat, Frances Carr, Megan Kennedy, Peggy Chi, Whitney Berta, Adrian Wagg&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; PubMed&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: The motivations and attitudes of caregivers strongly influence the care they provide. Motivation is also a central component in staff retention and care consistency, whereas attitude shapes delivery and degree of person-centeredness in care. Although caregiver attitudes and motivations have been examined separately in dementia care research, these constructs have not been comprehensively mapped together within residential memory care settings or explicitly linked to care quality. Objective: This review aims to assess literature pertaining to attitudes and motivations of formal caregivers in residential dementia care facilities and to examine how these constructs are associated with care quality. This review seeks to generate practical insights to inform workforce training and recruitment strategies to support high-quality, person-centered dementia care. Inclusion Criteria:...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5770/cgj.29.901</guid>
+      <title>Can an Expert Modeling Video Enhance Readiness and Performance in Simulation? A Randomized Controlled Trial</title>
+      <link>https://doi.org/10.3138/jvme-2025-0108</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Efrem Violato, Nichole Boutilier, Emilio Violato, Cameron Rimstad, Sidney Newman, Jasmine Kayanja, Seraph Forth, Julianna Phillips&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Veterinary Medical Education&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: calgary&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Simulation-based education effectively builds clinical competence, yet learners often report uncertainty about expectations before participating. Observing an expert modeling video (EMV) of an ideally performed simulation may reduce anxiety, enhance confidence, and improve performance, but existing evidence relies largely on self-reporting and is limited in scope. This randomized controlled trial examined the impact of an EMV on the preparation, confidence, affect, and performance of Veterinary Technology and Veterinary Medical Assistant students during an in-person euthanasia simulation. Forty students were randomized to view either an EMV of a client consultation for feline euthanasia (intervention) or a psychological safety orientation video (control). Stage One assessed changes in self-reported knowledge, preparedness, and confidence pre- and post-video; Stage Two measured affective...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.3138/jvme-2025-0108</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Editor's Desk: What's in a Label? The High Stakes of Choosing the Right Literature Review.</title>
-      <link>https://doi.org/10.70278/aanaj/.0000001095</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Edwin N. Aroke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; PubMed&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.70278/aanaj/.0000001095</guid>
+      <title>Zero-based budgeting in a non-profit organization: balancing stability and flexibility from its adoption through to post-pandemic</title>
+      <link>https://doi.org/10.1108/jaoc-03-2024-0104</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tota Panggabean, Hugh Pforsich, April Gordon&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Accounting &amp;amp; Organizational Change&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: inuit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Purpose This study aims to examine how zero-based budgeting (ZBB) enables nonprofit organizations to balance stability and flexibility during environmental disruptions, addressing the gap in empirical research on ZBB’s crisis adaptability. Design/methodology/approach Using a qualitative case study of the California Independent System Operator, the authors analyze ZBB implementation from preadoption (2006) through the postpandemic period (2025). Data collection combined focused interviews with four organizational members across executive and operational levels, with documented insider knowledge from a co-author. The authors use Hoque and Kaufman’s (2024) stability-flexibility framework integrated with institutional logics theory. Findings ZBB enabled systematic adaptation across three phases, each characterized by distinct institutional logics: tradition logic during preadoption...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1108/jaoc-03-2024-0104</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Augmented Reality for Balance Rehabilitation in Older Persons: A Scoping Review.</title>
-      <link>https://doi.org/10.5770/cgj.29.892</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Afeef Vehra, Patricia Hewston, Manuela Kunz, George Ioannidis, Sophia Matarazzo, Teshan Dias Desinghe, Noorain Mamdani, Alexandra Papaioannou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; PubMed&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Falls are a leading cause of injury and loss of independence in older adults. Impaired balance is a modifiable risk factor yet traditional rehabilitation approaches may not fully address balance control. Augmented reality (AR) provides an interactive method to support balance training and fall prevention. This scoping review summarizes key characteristics of AR interventions for balance rehabilitation in older adults, as well as associated outcome measures. Methods: Literature searches were performed across CENTRAL, CINAHL, EMBASE, Medline, PubMed, ScienceDirect, SCOPUS, and Web of Science from inception to July 2024. Using Arksey and O&amp;#x27;Malley&amp;#x27;s framework, we included studies meeting the following criteria: (i) older adults (65+), (ii) AR-based balance rehabilitation, (iii) randomized control trials (RCTs) or observational studies, and (iv) outcomes related to balance,...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5770/cgj.29.892</guid>
+      <title>Rapidly Warming Waters Drive &lt;scp&gt; &lt;i&gt;Vibrio parahaemolyticus&lt;/i&gt; &lt;/scp&gt; Abundance in a Northern Gulf</title>
+      <link>https://doi.org/10.1002/gcb4.70024</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; William M. Chapman, David J. Lieske, C. Richards, Jeff C. Clements, Joshua Kurek&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Global Change Biology Communications&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ABSTRACT Vibrio parahaemolyticus (Vp) is a marine bacterium that can cause severe foodborne illness. The abundance of Vibrios has likely increased globally, which is often attributed to climate change; however, studies directly linking Vp outbreaks to climate change are lacking for northern latitudes where Vp outbreaks have been historically rare. We developed a robust, predictive random forest model for outbreaks of Vp in the Gulf of St. Lawrence, Canada—one of the fastest warming marine bodies on Earth. We used remote‐sensed or modelled sea surface temperature, salinity, and chlorophyll‐ a , and 2415 archival Vp tests in oysters from 2017 to 2023, to develop a hindcast model predicting Vp outbreaks over the past 35 years (1998–2023). We then compared the hindcast of Vp outbreak probability to modelled changes in these key environmental parameters. The model revealed that, in some...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1002/gcb4.70024</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Improving the Delivery of Brain Health Care to All. Keeping our Eye on the Main Prize in an Era of Emerging Anti-Amyloid Therapies.</title>
-      <link>https://doi.org/10.5770/cgj.29.941</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Manuel Montero-Odasso, Linda Lee, David B Hogan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; PubMed&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5770/cgj.29.941</guid>
+      <title>Water and tryptophan qubits in neuronal microtubules: Manipulating holographic information by photon supply</title>
+      <link>https://doi.org/10.1088/1402-4896/ae754f</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Akihiro Nishiyama, Shigenori Tanaka, Jack A. Tuszynski&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Physica Scripta&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: hamilton&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract This paper provides a model of how tryptophan and water qubit states in neuronal microtubules can be manipulated by external photon supply. The formalism employed is cavity Quantum Electrodynamics (QED) represented by Tavis--Cummings Hamiltonian &amp;amp;#xD;with the degrees of freedom that include upper polariton, lower polariton states and dark states, coupled with photons in a waveguide and the environment. Time-evolution equations for tryptophan and water qubits and photons are derived. &amp;amp;#xD;Within this framework, a possible phase-modulation mechanism relevant to holographic information processing is proposed and described. External photon supply at frequencies corresponding to lower polariton states might induce dynamical evolution in tryptophan and water qubits, &amp;amp;#xD;suggesting a possible phase-modulation mechanism relevant to holographic information processing.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1088/1402-4896/ae754f</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Investigating Regolith Properties at Lunar Swirls via the Morphology of Small Craters</title>
-      <link>https://doi.org/10.5281/zenodo.20383864</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Myriam Lemelin, Guilhem Calas, Abigaëlle Lagneaux, et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20383864</guid>
+      <title>Clinical and Radiologic Characteristics of Familial Pulmonary Fibrosis</title>
+      <link>https://doi.org/10.1093/annalsats/aaoag145</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Amanda Grant-Orser, Daniel-Costin Marinescu, Cameron Hague, Nestor L Muller, Darra Murphy, Andrew Churg, Joanne L Wright, Amna Al-Arnawoot et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Annals of the American Thoracic Society&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Rationale Familial pulmonary fibrosis (FPF), defined as fibrosing interstitial lung disease (ILD) affecting two or more family members, is associated with earlier-onset and a more aggressive disease phenotype. Imaging findings may vary between relatives, complicating diagnosis. While genetic testing exists, it is limited by accessibility and the rarity of monogenic causes. Patient-reported family history may serve as a valuable adjunct prognostic marker. Objectives This study aimed to characterize the clinical and radiological features of patients with FPF using a multicenter ILD registry. We compared lung function and transplant-free survival between patients with FPF and sporadic ILD, overall and by radiologic pattern. Methods The multicenter Canadian Registry for Pulmonary Fibrosis includes patients with fibrotic ILD. Demographics, forced vital capacity (FVC%), diffusion...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1093/annalsats/aaoag145</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Investigating Regolith Properties at Lunar Swirls via the Morphology of Small Craters</title>
-      <link>https://doi.org/10.5281/zenodo.20383863</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Myriam Lemelin, Guilhem Calas, Abigaëlle Lagneaux, et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20383863</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Genetic architecture of phenological, morphological, and phytochemical traits in Cannabis landraces.</title>
-      <link>https://doi.org/10.1002/tpg2.70243</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mehdi Babaei, Davoud Torkamaneh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; PubMed&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Despite its long history of cultivation and diverse applications, Cannabis sativa remains underexplored at the genomic level, particularly in landrace populations that harbor untapped genetic diversity. In this study, we investigated the genetic architecture of 145 Iranian cannabis landrace accessions, including both male and female plants, using 233K common SNPs and genome-wide association studies. Our analysis revealed three genetically distinct subpopulations shaped by geography, climate, and traditional cultivation practices. We identified 91 significant genomic regions associated with 40 phenological, morphological, and phytochemical traits, including 15 key loci with pleiotropic effects linked to multiple traits, including flowering time, plant architecture, biomass accumulation, and cannabinoid biosynthesis. These findings highlight the complex interplay between developmental and...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1002/tpg2.70243</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multimodal Reasoning for Intent-Aware Human–Robot Collaborative Disassembly</title>
-      <link>https://vbn.aau.dk/da/publications/795ce794-1734-4ec0-b7fa-d2d9a75a216d</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rebecca Nekou; id_orcid 0009-0003-7815-8262 Malihi, Dimitrios Chrysostomou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; VBN Forskningsportal (Aalborg Universitet)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract—The transition toward circular manufacturing neces-&amp;lt;br/&amp;gt;sitates highly adaptive disassembly processes, where the cognitive&amp;lt;br/&amp;gt;flexibility of humans is combined with the precision and payload&amp;lt;br/&amp;gt;capacity of robots. However, current human–robot collaboration&amp;lt;br/&amp;gt;(HRC) frameworks often lack contextual awareness, relying on&amp;lt;br/&amp;gt;rigid, reactive control rather than proactive intent recognition.&amp;lt;br/&amp;gt;This paper introduces a multimodal reasoning framework for&amp;lt;br/&amp;gt;intent-aware collaboration by integrating visual, depth, and&amp;lt;br/&amp;gt;surface electromyography (sEMG) signals within a Vision language&amp;lt;br/&amp;gt;model (VLM), enabling real-time adaptation of robot behavior&amp;lt;br/&amp;gt;based on observed human activity.&amp;lt;br/&amp;gt;The approach will be evaluated in a Lego-based disassembly&amp;lt;br/&amp;gt;scenario using a UR5 robot, an Intel RealSense camera, and&amp;lt;br/&amp;gt;a MindRove sEMG armband. Preliminary experiments aim...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://openalex.org/W7160225891</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pottery Traditions: Regionality, Longevity, and Specialization Tall Ya’moun and Tall al-Assara</title>
-      <link>https://pure.au.dk/portal/en/publications/bdd8f973-af48-4a46-82a1-0aa488c513d3</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gheorghiade, Paula; id_orcid 0000-0003-2335-2036, Klassen, Stanley, Daems, Dries&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This chapter focuses specifically on the pottery collected through excavations at two key sites in the region: Tall Ya’moun and Tall al-Assara. In this chapter, our goal is threefold: first, to highlight particular ceramic examples recovered from the 2022 Tall Ya’moun and Tall al-Assara excavations as a way of understanding the community’s place in the broader Iron Age landscape of northern Jordan; second, to situate these finds within a wider network of regional parallels and comparisons; and third, to use this evidence to reflect on broader patterns of settlement and changing social complexity in the first millennium. To do so, it is important to focus on the ceramic material prior to this period to give context to the development of the site through time. This material is central to this discussion as it connects both Tall al-Assara and Tall Ya’moun into longer-term regional...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://openalex.org/W7112088130</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sanitizable Signatures with Different Admissibility Policies for Multiple Sanitizers</title>
-      <link>https://doi.org/10.1145/3779208.3785265</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Osama Allabwani, Olivier Blazy, Pascal Lafourcade, Charles Olivier-Anclin, Olivier Raynaud&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; HAL (Le Centre pour la Communication Scientifique Directe)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The full version of a publication in AsiaCCS 2026.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1145/3779208.3785265</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FI-CGA and eFI-CGA in Frailty Care: a Scoping Review.</title>
-      <link>https://doi.org/10.5770/cgj.29.804</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiaowei Song, Barry Clarke, Grace Park, Kenneth Rockwood&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; PubMed&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Comprehensive geriatric assessment (CGA) is the reference standard for diagnosing and managing frailty. By evaluating a broad range of health, functional, cognitive, and social problems, the CGA enables the construction of a deficit accumulation Frailty Index (FI-CGA). Recent advances have integrated the electronic CGA (eCGA) into electronic health/medical records and other digital platforms, allowing automated coding and summarization of CGA data to generate an electronic Frailty Index (eFI-CGA). Methods: We reviewed over two decades of research on the development, validation, and application of the FI-CGA, eCGA, and eFI-CGA in health-care contexts, conducted following the PRISMA-ScR guidelines. A comprehensive search was performed in MEADLINE and CINAHL databases, including English language publications from 2004 to July 1, 2025. The 38 studies that met all criteria are...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5770/cgj.29.804</guid>
+      <title>Distinct Systemic Sclerosis Phenotypes Related to Ethnicity: An Opportunity to Personalize Care?</title>
+      <link>https://doi.org/10.1002/acr.80098</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Danick Goulet, Camille Guertin, Maggie Larché, Isabelle Ferdinand, M Hudson, May Y. Choi, Mohammed Osman, Janet Pope et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Arthritis Care &amp;amp; Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objective The objective is to describe and compare demographic, clinical and serological characteristics of systemic sclerosis (SSc) patients according to ethnic background. Methods Participants enrolled in the Canadian Scleroderma Research Group cohort who self‐identified to a single ethnicity group were included. Baseline characteristics were compared using ANOVA, chi‐square or Kruskal‐Wallis rank sum test. Kaplan‐Meier curves and Cox regression were used to estimate mortality. Results Of 1477 eligible participants, 1345 (91.1%) identified as White, 55 (3.7%) as Indigenous, 22 (1.5%) as East/Southeast Asian, 20 (1.4%) as Middle Eastern, 16 (1.1%) as Black, 12 (0.8%) as South Asian, and 7 (0.5%) as Latin American. White individuals had a lower prevalence of diffuse cutaneous SSc (dcSSc) (33% vs 53%) and telangiectasias (44% vs 67%) compared to other ethnicities. Conversely, Black...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1002/acr.80098</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -507,11 +108,382 @@
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Rethinking the Role of Cardiac Imaging for Breast Cancer Patients in Northwestern Ontario: A Retrospective Cohort Study</title>
+      <link>https://doi.org/10.3390/proceedings2026143006</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hannah Shortreed, Megan Clark, Husam Abdel-Qadir, Rabail Siddiqui, Olexiy Aseyev&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: ontario&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.3390/proceedings2026143006</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maritimes Ecosystem Approach (marea) R package to support an ecosystem approach to fisheries management</title>
+      <link>https://doi.org/10.60825/cbsa-tx29</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Emily O’Grady, Jamie C. Tam, Andrew M. Edwards, Benoit Casault, Stephanie Clay, Adam Cook, Rémi Daigle, David Keith et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Fisheries and Oceans Canada / Pêches et Océans Canada - Publications&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada; Canada-related source title&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Operationalizing Ecosystem Approaches requires access to robust data and information from a variety of sources to integrate ecosystem information into science advice. The marea package provides a stable, metadata-rich data structure and workflow for ecosystem data in Fisheries and Oceans Canada’s Maritimes Region. It standardizes how time-series and spatio-temporal datasets are represented, inspected, plotted, and exchanged, using S4 class objects that ensure consistent behavior across data products. This report documents the rationale, design, and core methods of marea, focusing on package architecture and workflows that will remain stable over time. Dynamic content (e.g., specific datasets and values) is intentionally de-emphasized and referenced through a single runtime function that retrieves the current catalog. The package supports transparent metadata, reproducible analysis, and...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.60825/cbsa-tx29</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evacuation network design and planning under traffic congestion: An application to wildfires in Canada</title>
+      <link>https://doi.org/10.1016/j.tre.2026.104965</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. Moreno, Valérie Bélanger, Marilène Cherkesly, Marie-Ève Rancourt&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Transportation Research Part E Logistics and Transportation Review&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; • We model evacuation planning with traffic by using the Cell Transmission Model. • We implement a Branch-and-Benders-Cut algorithm to solve the problem. • We propose benchmark instances reflecting different topological characteristics. • We validate our approach on the 2023 wildfire evacuation of Chibougamau. • We evaluate preparedness strategies and provide actionable managerial insights.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.tre.2026.104965</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Economic analysis of an integrated virtual health care model targeting medication- related problems for high-risk chronic kidney disease patients in Ontario, Canada</title>
+      <link>https://doi.org/10.21203/rs.3.rs-9372412/v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aleksandra Stanimirovic, Stephanie W. Ong, James Marshall Bowen, Abhijat Kitchlu, D Cherney, Christopher T.M. Chan, Valeria E. Rac&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Research Square&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada, ontario&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21203/rs.3.rs-9372412/v1</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fish out of water: the experiences of equity-owed lifeguards in Ontario, Canada</title>
+      <link>https://doi.org/10.1080/11745398.2026.2675667</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sofia Pantano, Audrey R. Giles&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Annals of Leisure Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada, ontario&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1080/11745398.2026.2675667</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trust, autonomy, and informed consent: a qualitative investigation of youth experiences accessing contraception in Canada</title>
+      <link>https://doi.org/10.1080/26410397.2026.2678063</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sarah Munro, Madeleine Ennis, Kaiya Jacob, Bimbola Olure, Zeba Khan, Hajar Seiyad, Ayla Arhinson, Ruby Abramson et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sexual and Reproductive Health Matters&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Finally, youth reported practising advocating for their reproductive autonomy to have control over their own body. Our research highlights the importance of shared decision-making, informed consent, and anti-oppressive care in fostering supportive and safe contraception access for youth. Results have implications for jurisdictions where youth face increasing barriers to contraception access. [245].&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1080/26410397.2026.2678063</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Correction: Test-adjusted estimation for pertussis incidence in greater Toronto, Canada, 1993–2006</title>
+      <link>https://doi.org/10.1186/s12879-026-13692-x</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Clara Eunyoung Lee, Amy Howe, Natalie J. Wilson, Alicia A. Grima, David N. Fisman&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; BMC Infectious Diseases&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada, toronto&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1186/s12879-026-13692-x</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Correction: A sea of need: provider accounts of strategies used to manage admission demands to safer opioid supply programs in Ontario</title>
+      <link>https://doi.org/10.1186/s12954-026-01473-3</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Carol Strıke, Katherine Rudzinski, Rose A. Schmidt, Gillian Kolla, David Kryszajtys, Melissa Perri, Nat Kaminski, Adrian Guţă&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Harm Reduction Journal&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: ontario&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1186/s12954-026-01473-3</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proximity labelling of D1-like dopamine receptors reveals distinct cellular environments and uncovers trafficking proteins that regulate DA mediated behaviors in Drosophila</title>
+      <link>https://doi.org/10.64898/2026.05.28.728438</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dana C. Guhle, Bhavana Kanagala, Rebecca Dust, Ross Evashkevich, Ronald L. Davis, Jacob A. Berry&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; bioRxiv (Cold Spring Harbor Laboratory)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The neurotransmitter dopamine (DA) is central to synaptic regulation that support diverse behavioral functions, including both learning and forgetting. This multi-functional role of DA is due to receptor specific signaling in specific subcellular environments that remain uncharacterized. Here we utilized proximity labelling proteomics in human cells to characterize the proximal environments of two Drosophila D1-like DA receptors (Dop1R1 and Dop1R2) in basal and DA activation environments. While DA drives both receptors to recruit Beta-Arrestin 2, Dop1R1 alone showed ligand driven recruitment of G-protein Receptor Kinase 2/3, proximity to clathrin mediated endocytosis, and WASH complex mediated endosomal trafficking. Additionally, we show evidence that Dop1R1 and Dop1R2 reside in distinct domains at the cell surface. In vivo disruption of Drosophila orthologs of Dop1R proximal proteins...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.64898/2026.05.28.728438</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JWST observations of photodissociation regions</title>
+      <link>https://doi.org/10.1051/0004-6361/202658975</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; D. Van De Putte, K. D. Gordon, K. Misselt, A. N. Witt, A. Abergel, A. Noriega-Crespo, P. Guillard, M. Zannese et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Astronomy and Astrophysics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Context. The northwest photodissociation region (PDR) of the NGC 7023 reflection nebula has been observed with JWST spectroscopy, revealing the carbonaceous emission bands at a high level of detail. Compared to other PDRs (Horsehead and Orion Bar) the softer radiation field driving NGC 7023 results in an extended atomic hydrogen region and more pronounced spatial variations in the band profiles. Its weaker thermal dust continuum makes NGC 7023 an ideal target for studying the 16–18 µm emission and its relation to the main emission bands at 3.3, 3.4, 5.2, 5.7, 6.2, 7.7, 8.6, 11.3, and 12.7 µm. Aims. We performed a spatially resolved study to reveal which emission bands originate from the same or cospatial populations of small carbonaceous emitters. Methods. We applied a spectral decomposition with PAHFIT to around 500 extracted spectra and produced maps of the individual subcomponents of...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1051/0004-6361/202658975</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effect of intratumoral alpha radiation on tumor growth delay and tumor microenvironment in an orthotopic colorectal liver metastasis murine model</title>
+      <link>https://doi.org/10.1038/s41598-026-51264-w</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Oran Zlotnik, A. Tsatoumas, Audrey Kapelanski‐Lamoureux, Amatzia Gantz, Miran Rada, Stephanie Petrillo, Jennifer Kalil, Shmuel Packer et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Scientific Reports&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Colorectal cancer frequently spreads to the liver, and current treatments often damage healthy liver tissue, while targeting tumors. Diffusing Alpha-emitters Radiation Therapy (Alpha DaRT) disperses alpha-emitting atoms from an intra-tumoral implanted source to a range of a few millimeters in the tumor. Alpha radiation is highly efficient in killing cancer cells, compared to other radiation types, and its short range in the tissue, potentially enables sparing healthy tissue adjacent to the tumor. Alpha DaRT’s efficacy was previously demonstrated in subcutaneous tumors from various histotypes. Yet its effectiveness in treating tumors located in an internal organ, such as the liver, remains to be tested in animal studies. Here, we used a single liver metastasis orthotopic model by implanting MC38 colorectal metastatic tissue in mice livers. The metastasis was then treated either with a...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1038/s41598-026-51264-w</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interests and preferences regarding family planning self-care interventions: cross-sectional surveys with Kenyan and Nigerian women</title>
+      <link>https://doi.org/10.1080/26410397.2026.2681342</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Funmilola M. OlaOlorun, Fredrick Makumbi, Simon P. S. Kibira, Elena Lebetkin, Ndola Prata, Philip Anglewicz, Peter Gichangi, Elizabeth Omoluabi et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sexual and Reproductive Health Matters&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Self-care interventions for family planning encourage women to play a central role in their own health care. This study assesses women&amp;#x27;s interests and preferences related to mobile access to information and products amenable to self-administration, and examines factors associated with preferred place of access. We added a module to the female questionnaire of the cross-sectional Performance Monitoring for Action survey in Kenya (n = 9,489) and in two Nigerian states (Kano (n = 1,144) and Lagos (n = 1,426)) between November 2021 and January 2022. We analysed data on interests and preferences related to mobile access to information and various places of access for oral contraceptive pills, emergency contraception, and DMPA subcutaneous self-injection and fitted multinomial regression models to examine the factors associated with preferred place of access for each contraceptive product....&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1080/26410397.2026.2681342</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Macular neovascularization in patients with Gyrate atrophy</title>
+      <link>https://doi.org/10.1080/13816810.2026.2671407</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Joshua Bierbrier, Yusuf Ahmed, Mario Ventresca, Steve A. Arshinoff, Keyvan Koushan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ophthalmic Genetics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Two cases of macular neovascularization (MNV) in female patients with genetically confirmed Gyrate Atrophy of the choroid and retina (GACR) are presented. Both patients experienced sudden central vision loss, with subfoveal MNV confirmed on multimodal imaging including optical coherence tomography angiography. The first patient showed improvement in best-corrected visual acuity (BCVA) from 20/60 to 20/30 following three monthly intravitreal anti-VEGF injections, followed by a treat-and-extend regimen. The second patient experienced five MNV recurrences over a five-year period, each managed with anti-VEGF therapy, achieving long-term visual stability at 20/40. Persistent subretinal fibrosis developed in both cases. These cases represent the first reported instance of recurrent MNV in GACR. A review of clinical findings and existing literature suggests that the pathogenesis may involve...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1080/13816810.2026.2671407</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post-stroke Innate Immune Dysfunction in Childhood Arterial Ischemic Stroke: Transcriptomic Signatures Distinguish Etiologies and Outcomes</title>
+      <link>https://doi.org/10.64898/2026.05.28.26354229</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mary Karalius, Prashanth Ramachandran, Maham Zia, Annie Wapniarski, Ravi Dandekar, Shiyin Wang, Nancy Hills, Huichun Xu et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; medRxiv&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Immune-mediated mechanisms are increasingly implicated in childhood arterial ischemic stroke (AIS), but the associated inflammatory pathways and how they differ by stroke subtype and outcome remain poorly understood. Understanding immune responses to AIS may identify subtype-specific mechanisms and inform targeted strategies to reduce ischemic injury. Methods: We conducted a prospective cohort study with cross-sectional transcriptomic analysis through the Vascular Effects of Infection in Pediatric Stroke Study Part II (VIPS II) at 22 academic centers in the United States, Canada, and Australia between December 2016 and January 2022. Children aged 28 days to 18 years with centrally confirmed AIS were enrolled within 72 hours of stroke onset, in addition to enrollment of stroke-free well children. Peripheral blood RNA sequencing was performed on samples collected within 72...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.64898/2026.05.28.26354229</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cognitive, Motor and Oculomotor Contributions to the Trail Making Test in Progressive Supranuclear Palsy</title>
+      <link>https://doi.org/10.1002/mdc3.70696</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Indira Garcia-Cordero, Mohsen Hadian, Juan‐Camilo Vargas‐González, Marta Monteiro, D Gold, Abeer Khoja, Alonso Morales‐Rivero, Blas Couto et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Movement Disorders Clinical Practice&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: toronto; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; BACKGROUND: Progressive supranuclear palsy (PSP) is a neurodegenerative disorder characterized by motor, oculomotor and cognitive impairments. Yet disentangling cognitive deficits from motor and oculomotor dysfunction remains a diagnostic and methodological challenge. OBJECTIVES: This study aims to evaluate how cognitive, motor, and oculomotor impairments contribute to performance in the Trail Making Test (TMT) in PSP patients. METHODS: Eighty-one patients with PSP-Richardson&amp;#x27;s syndrome underwent the Toronto Cognitive Assessment, the Movement Disorder Society Unified Parkinson&amp;#x27;s Disease Rating Scale-part III and the PSP rating scale. Structural equation modeling was used to examine associations between TMT performance, cognitive function, and motor/oculomotor measures derived from these assessments. RESULTS: TMT performance was mainly driven by cognitive factors, particularly executive...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1002/mdc3.70696</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Immunosuppressive drug use in limited systemic sclerosis: an international survey</title>
+      <link>https://doi.org/10.1002/acr.80093</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Hoa, Yicheng Mu, M Hudson, Janet Pope&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Arthritis Care &amp;amp; Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objectives Current guidelines recommend immunosuppressive treatment for diffuse cutaneous systemic sclerosis, but are less clear on their use in limited cutaneous systemic sclerosis (lcSSc) in the absence of internal organ complications. We conducted an international survey to understand current immunosuppressive drug prescribing patterns in lcSSc. Methods An electronic REDCap survey was distributed to 756 general rheumatologists and 250 national and international SSc experts. Results A total of 139 (14%) participants responded to the survey (94% were rheumatologists); 58% of respondents reported at least sometimes using immunosuppressive drugs to treat cutaneous symptoms in lcSSc, whereas 42% rarely or never did. Conversely, only 21% reported at least sometimes prescribing immunosuppression to prevent future complications in lcSSc, whereas 79% rarely or never did. Over 70% of...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1002/acr.80093</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Rapid Method to Assess, Map, and Develop Standards for Old Growth: Catchacoma Primary Hemlock Forest, Ontario, Canada</title>
+      <link>https://doi.org/10.3390/wild3020024</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Peter Quinby, Ania Marcus&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Wild&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada, ontario; Canada-related term in abstract: canada, canadian, ontario&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; All eastern hemlock-dominated forests in Ontario could be gone by 2075 given current trends, which demands rapid assessment to locate these endangered ecosystems. To date, however, neither the Canadian or Ontario governments have developed field assessment protocols or minimum standards for identifying old-growth forests that provide density and biomass estimates for the primary features of these forests. This study focused on the Catchacoma Forest, Canada’s largest eastern hemlock forest, and represents a first step towards establishing minimum standards for old-growth eastern hemlock forests in the Great Lakes-St. Lawrence Forest region. Rectangular plots were systematically placed along evenly spaced east–west transects at a 2% sampling intensity for the 181 ha study area and assessed for mother trees (MTs) and cut stumps. By a factor of 15X, the method developed was more efficient...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.3390/wild3020024</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frailty Progression Moderates the Association Between Sensory and Cognitive Trajectories Over 6 Years: Evidence From the Canadian Longitudinal Study on Aging</title>
+      <link>https://doi.org/10.1097/aud.0000000000001839</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fereshteh Mehrabi, Natalie A. Phillips, M. Kathleen Pichora-Fuller, Walter Wittich, Melissa K. Andrew, Paul Mick&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ear and Hearing&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canadian; Canada-related term in abstract: canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; OBJECTIVES: Sensory loss is associated with cognitive decline in later life, but little is known about how biological factors such as frailty alter this relationship. This study examined whether trajectories of hearing, vision, and frailty progression independently predicted cognitive trajectories over 6 years, and whether frailty progression moderated the associations between sensory and cognitive trajectories. DESIGN: Data came from three waves of the Canadian Longitudinal Study on Aging, including 19,378 participants aged 45 to 86 years at baseline. Latent growth curve modeling was used to estimate trajectories of sensory performance, frailty, and cognitive function (executive function and memory), examining the main and moderating effects of frailty. All analyses were adjusted for key baseline covariates, including age, sex, education, household income, ethnicity, and lifestyle...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1097/aud.0000000000001839</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadian wildfires are losing their climate-cooling influence from postfire snow albedo</title>
+      <link>https://doi.org/10.1073/pnas.2600434123</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Max J. van Gerrevink, Alemu Gonsamo, Brendan M. Rogers, Stefano Potter, Zilong Zhong, Sander Veraverbeke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of the National Academy of Sciences&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canadian; Canada-related term in abstract: canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The 2023 Canadian fire season was record-breaking in terms of burned area and carbon emissions. Here, we present estimates of the regional climate-cooling effect from postfire surface albedo changes, which have historically partially offset the warming influence of fire emissions by wildfires. We estimate that the 2023 fires generated a time-integrated climate cooling of –3.41 W m −2 of burned area (95% CI: −4.39 to −2.43) over a 70-y period. We show that the climate-cooling impact has weakened on average by 29% since the 1960s due to changes in snow cover and duration. Collectively, this result implies that modern-day boreal fires are on average twice as likely to result in a net climate-warming influence.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1073/pnas.2600434123</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Altered PI3K-PTEN balance promotes preferential killing of human IgE+ plasma cells by BCR crosslinking</title>
+      <link>https://doi.org/10.64898/2026.05.28.728415</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Faruk Ramadani, Helena Tolarová, Sin Wah Tooki Chu, Clare Thomas, Line Ohm‐Laursen, Pavel Tolar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; bioRxiv (Cold Spring Harbor Laboratory)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: bc; Canada-related term in abstract: bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Immunoglobulin E (IgE) drives allergic disease, yet what restrains the persistence of IgE production remains poorly understood. Mouse studies suggest that BCR-induced apoptosis limits the survival of IgE-producing plasma cells (PCs). Whether this mechanism applies to human IgE⁺ PCs is unclear. Using a human IgE class-switching system, we show that BCR crosslinking preferentially kills IgE⁺ PCs compared to IgG1+ PCs. However, this selective sensitivity is not explained by surface BCR levels or proximal BCR signaling as suggested in mice. Instead, elevated PTEN expression in IgE⁺ PCs constrains PI3K/Akt pro-survival signaling and lowers the apoptotic threshold by upregulating BIM, while JNK signaling sustains PTEN expression and amplifies their apoptotic sensitivity. CRISPR/Cas9 targeting of PTEN or BIM, or JNK inhibition protects IgE⁺ PCs from BCR-mediated killing. Therapeutic anti-IgE...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.64898/2026.05.28.728415</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defining leadership in Canadian public administration: an analysis of federal, provincial and territorial frameworks and models</title>
+      <link>https://doi.org/10.1108/ijpl-04-2026-0072</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Bobby Thomas Cameron&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; International Journal of Public Leadership&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canadian; Canada-related term in abstract: canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Purpose This article aims to examine leadership frameworks, models and related texts across Canadian federal, provincial and territorial governments to identify how leadership is formally defined, structured and differentiated within the public service. It addresses a gap in the Canadian literature, which has focused largely on the federal context, and responds to concerns about the limited contextual grounding of public sector leadership development. Design/methodology/approach The study uses a qualitative, document-based design. Publicly available leadership frameworks, competency models and related texts were identified through targeted internet searches of government websites and analyzed thematically and interpretively. Findings The analysis finds both substantial convergence and meaningful differentiation. Across jurisdictions, leadership is commonly framed in relation to...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1108/ijpl-04-2026-0072</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recreational trampling restructures alpine plant communities in British Columbia’s south coast: Resilience among graminoids, losses in shrubs, forbs and bryophytes</title>
+      <link>https://doi.org/10.22541/authorea.15004153/v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nina Hewitt, Teagan Maclachlan, Paul English, Jérémy Borderieux, Philippa Stone, Connor Wardrop, Annabelle Damude, Courtney G. G. Collins et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: british columbia; Canada-related term in abstract: canada&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Alpine ecosystems face combined stressors of climate and land use changes, including increasing recreation. Data on floristic responses to trampling remain limited, particularly for cryptogams such as bryophytes. We investigated the effects of trampling on vascular and non-vascular plant species in a protected mountain area on the unceded territory of the Squamish and Lil’wat Nations. This region has been used for centuries for hunting and harvesting, but recently has seen increases in hiking visitation. We surveyed permanent transect pairs of trampled (trailside) and minimally disturbed reference (5 m off-trail) plots at 14 sites along popular trails in Garibaldi Park, Canada, all &amp;gt;8 km from the nearest car access point. We measured percent cover for vascular plant species within subplots and conducted species-level bryophyte surveys in a subset of 6 transect pairs. We also measured...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.22541/authorea.15004153/v1</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New climate regime restructures the ecology of Canada’s Northern Great Lakes</title>
+      <link>https://doi.org/10.1073/pnas.2603271123</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kathleen M. Rühland, Neal Michelutti, Marlene S. Evans, Kimberly L.‏ Howland, John P. Smol&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of the National Academy of Sciences&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada; Canada-related term in abstract: canada&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Great Bear Lake (GBL), Great Slave Lake (GSL), and Lake Hazen in northern Canada have recently experienced a shift in fundamental aquatic ecosystem processes associated with accelerated Arctic warming. Multiple high-resolution, 210 Pb-dated sediment records (GBL: Smith, Keith, McVicar arms, GSL: West Basin, Lake Hazen: Blister, Main sites) registered remarkably similar restructuring of algal community composition over the past few decades in all lakes. A rapid proliferation of small euplanktonic diatoms at the turn of the 21st century displaced benthic (GBL, Lake Hazen) and large filamentous (GSL) taxa that dominated the diatom assemblages since the mid-to-late 1800s. An increase in the number of ice-free days, a rise in regional air temperature, and a decline in wind speed primed the lakes for new physical and thermal regimes that facilitated a shift to greater whole lake primary...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1073/pnas.2603271123</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Consensus Statement from the Society of Gynecologic Oncology of Canada on Folate Receptor α Testing in Ovarian Cancer</title>
+      <link>https://doi.org/10.3390/curroncol33060330</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kim Ma, Basile Tessier-Cloutier, Alon D. Altman, Mark S. Carey, Josée-Lyne Ethier, Susie Lau, C W Lee, Laura Hopkins et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Current Oncology&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada; Canada-related term in abstract: canada, canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Folate receptor alpha (FRα), commonly expressed in epithelial ovarian cancers, is a clinically actionable biomarker following approval of the antibody–drug conjugate mirvetuximab soravtansine (MIRV). Pivotal trials showed that high FRα expression predicts MIRV benefit, creating the need for standardized testing to ensure timely, equitable access. Methods: To address the need for guidance on FRα testing, the Society of Gynecologic Oncology of Canada convened a multidisciplinary Expert Panel to review the evidence and integrate Canadian clinical, pathology, laboratory, and patient perspectives. Consensus recommendations were developed through structured evidence review, expert discussion, iterative revision, and patient partner input. Results: The panel issued recommendations on the clinical role and timing of FRα testing, tissue requirements, assay selection and validation,...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.3390/curroncol33060330</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preferential authigenic clay precipitation on microbial mats in alkaline lakes of the Cariboo Plateau, British Columbia, Canada</title>
+      <link>https://doi.org/10.1016/j.apgeochem.2026.106917</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Maria Arizaleta, Maija J. Raudsepp, Nina Zeyen, Janice P.L. Kenney, Cody Lazowski, Daniel S. Alessi, Kurt O. Konhauser, Sasha Wilson&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Applied Geochemistry&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada, british columbia; Canada-related term in abstract: canada, british columbia&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Alkaline lakes commonly precipitate authigenic Mg-phyllosilicates, yet the controls on formation of these clay minerals remain poorly understood. This study examines the geochemical and microbial controls on precipitation of Mg-rich clays and carbonates in four alkaline lakes of the Cariboo Plateau located in British Columbia, Canada. Mineralogical analyses reveal that lake sediments and microbial mats contain abundant stevensite [(Na 2 y · n H 2 O)(Mg 3– y □ y )Si 4 O 10 (OH) 2 ], a Mg-clay phase typically associated with high-alkalinity, closed-basin systems. Mg-carbonates are also present, magnesite (MgCO 3 ) and very high Mg-calcite [also known as disordered dolomite, (Ca 0.5 Mg 0.5 CO 3 )]. Despite extremely low aqueous Mg and Si concentrations, we observe that Mg-clay precipitation is favoured over Mg-carbonates within microbial mats compared to sediment from the same lake. Our...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.apgeochem.2026.106917</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Ego-Centric to Eco-Centric: Realizing Principle 1 of the Pan-Canadian Health Data Charter</title>
+      <link>https://doi.org/10.1177/08404704261453785</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Claire Snyman, Alies Maybee, Teri Price, Glynda Rees, Anna Schamper&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Healthcare Management Forum&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canadian; Canada-related term in abstract: canada, canadian, inuit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Canadian healthcare landscape’s deep fragmentation of service-centric data silos is causing harm to patients, providers, and the overall healthcare system. This article examines Principle 1 of the Pan-Canadian Health Data Charter: Person-Centric Health Information Design (PCHID). Unlike traditional models, PCHID creates a technical architecture organizing data around individuals to ensure continuity of information across the care continuum. Canada can realize significant gains in health equity, clinical safety, and population health and innovation by moving from an “ego-centric” system of institutional data control to an “eco-centric” model of shared stewardship. This article outlines pathways for health leaders to operationalize PCHID. These include governance and public engagement, harmonized policies and legislation, investment in health data literacy, culture change, and...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1177/08404704261453785</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The health and well-being of older Veterans in Canada: A scoping review</title>
+      <link>https://doi.org/10.3138/jmvfh-2025-0064</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kim Ritchie, Lisa Garland Baird, Imama Noor, Emily Sullo, Mauda Karram&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Military Veteran and Family Health&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada; Canada-related term in abstract: canada, canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction: This scoping review examines the health and well-being of older Canadian Veterans, a population facing distinct aging challenges shaped by military service. Methods: Guided by Arksey and O’Malley’s five-stage framework, we searched peer-reviewed and grey literature across six databases and multiple Canadian government sources. Eligible sources included journal articles, reports, book chapters, and editorials addressing Canadian Veterans aged 55+ years and their physical, mental, or overall well-being. From 2,229 identified sources, 68 were included. Data extraction captured study characteristics, concepts, participant details, and main findings. Results: Three themes were identified: 1) health and well-being across all Veteran ages, 2) interventions and programs, and 3) research specifically on older Veterans. Older Veterans experience higher rates of chronic physical...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.3138/jmvfh-2025-0064</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Therapeutic Effect of Zingerone on Reproductive Damage in Diabetic Male Rats: Potential Role of Sirt1/Nrf2/HO‐1 and Bax/Bcl‐2 Signaling Pathways</title>
+      <link>https://doi.org/10.1002/jbt.70939</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; EDANUR GÜLER EKMEN, Mehmet Çay, İbrahim Halil Güngör, Ali Osman Çeribaşı&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Biochemical and Molecular Toxicology&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: bc; Canada-related term in abstract: bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ABSTRACT Diabetes mellitus exerts a deleterious effect on the male reproductive system, manifesting as a metabolic disease. Recent research has indicated that the ingestion of dietary supplements rich in natural antioxidants may reduce or prevent damage to the male reproductive system in cases of diabetes‐induced infertility. This study investigated the effects of zingerone on diabetes‐induced reproductive damage in male rats by analyzing the Sirt1/Nrf2/HO‐1 signaling pathway, apoptosis, sperm quality, and histopathological changes. Seventy‐five male Sprague Dawley rats, weighing between 250 and 300 g and aged 10 to 12 weeks, were divided into six groups. These included: control; zingerone (50 mg/kg); zingerone (100 mg/kg); diabetes; diabetes with zingerone (50 mg/kg); and diabetes with zingerone (100 mg/kg). Diabetes was induced via a single intraperitoneal injection of 55 mg/kg...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1002/jbt.70939</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impact of the COVID-19 pandemic on obesity: a prospective cohort study of the Canadian Longitudinal Study on Aging (CLSA)</title>
+      <link>https://doi.org/10.1136/bmjopen-2026-116378</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mohammad Nazmus Sakib, Lauren E. Griffith, Urun Erbas Oz, Nicole E. Basta, Hertzel C. Gerstein, J. Morgenstern, Susan Kirkland, Lehana Thabane et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; BMJ Open&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canadian; Canada-related term in abstract: canada, canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objectives To examine the impact of the COVID-19 pandemic on body mass index (BMI) and obesity status among Canadian residents and explore how this association varied by sociodemographic and health status. Design Prospective cohort study. Setting Canada. Participants 41 302 adults, aged 45–85 at baseline, participating in the Canadian Longitudinal Study on Aging. Primary and secondary outcomes BMI and BMI-defined obesity were measured at baseline, follow-up 1 and follow-up 2 (FUP2), with 33% of FUP2 data (n=13 444) gathered after 16 March 2020, when COVID-19 restrictions began. Correction factors were applied for self-reported BMI and weighted generalised estimating equations assessed BMI changes before and during the pandemic. Results We found a significant interaction between follow-up time and timing of FUP2 data collection (before or during the pandemic). Participants measured...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1136/bmjopen-2026-116378</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Geriatrician and General Internist Clinical Payments in Canada 2022-2023: Fee for Service and Alternative Payment Plan.</title>
       <link>https://doi.org/10.5770/cgj.29.929</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ashley B. Martel, Jasmine Mah, Kiran J Shu, Jaspreet Bhangu, Michael Borrie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; PubMed&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada; Canada-related term in abstract: canada, canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A Comprehensive Geriatric Assessment (CGA) completed by a geriatrician assessing an older person living with frailty and multiple comorbidities involves longer visit durations than standard General Internal Medicine (GIM) consultations, reflecting the need for detailed evaluation. Medical trainees have little formal education about how they will be remunerated as specialists or that there are different methods of clinical payments between provinces of Canada, including Fee for Service (FFS) and Alternative Payment Plans (APP). GIM is a reasonable comparator to Geriatric Medicine because, while not using CGA, GIM residents are also trained to assess medically complex patients who often have comorbidities. The goal of this paper was to provide transparency for medical trainees about differences in the proportion of FFS or APP and the average clinical payments made to geriatricians and...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://doi.org/10.5770/cgj.29.929</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Power to export: Leveraging circular metal fuels for Canada's energy security</title>
+      <link>https://doi.org/10.1177/00207020261452700</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zeynab Yousefzadeh, Keena Trowell&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; International Journal Canada s Journal of Global Policy Analysis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada; Canada-related term in abstract: canada, canadian; Canada-related source title&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A transition to an energy system that capitalizes on Canada&amp;#x27;s renewable energy potential is the safe, resilient, and secure way forward. The returns on investment of a continued adherence to a hydrocarbon fuel system are diminishing and the benefits to the Canadian economy are overstated. New investments in old technologies, even under the presumption that such infrastructure can support emerging hydrogen technology, is not prudent. Investment in circular fuel technology is needed. Circular fuels, produced using renewable power and their own by-product as a feedstock, address the key bottleneck in the development of renewable power: intermittency and distribution. Using electricity to produce fuels, such as aluminum and iron, provides a mechanism whereby clean energy can be strategically stockpiled and/or distributed around the world, enabling Canada to establish itself as a leader in...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1177/00207020261452700</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Produire, filtrer, légitimer : le contrôle du narratif dans la mise en œuvre de la Politique d’aide internationale féministe du Canada au Mali</title>
+      <link>https://doi.org/10.1017/s0008423926101243</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gabrielle Goyet&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Canadian Journal of Political Science&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada; Canada-related term in abstract: canada; Canada-related source title&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Résumé Cet article examine la mise en œuvre de la Politique d’aide internationale féministe (PAIF) du Canada au Mali à partir d’une approche qualitative basée sur des entrevues effectuées auprès de personnes oeuvrant dans le milieu. Il montre que la PAIF ne s’applique pas de façon linéaire : il s’agit plutôt d’un processus narratif impliquant traduction, filtrage et légitimation. Les acteurs intermédiaires locaux, notamment via le Projet de services d’appui sur le terrain (PSAT), jouent un rôle clé en réduisant les frictions normatives et la perception d’ingérence. En mobilisant les notions de narratif, courtiers en développement et résonance locale, l’analyse révèle que ces ajustements favorisent la recevabilité de la PAIF, tout en limitant sa portée transformatrice.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1017/s0008423926101243</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Access to pediatric retina services in British Columbia: a prepandemic and pandemic analysis</title>
+      <link>https://doi.org/10.1016/j.jcjo.2026.04.017</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Suruchi Bhardwaj Bhui, Jane Gardiner, Wai-Ching Lam, Jonathan Berkowitz, Patrick E Ma&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Canadian Journal of Ophthalmology&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: british columbia; Canada-related term in abstract: british columbia; Canada-related source title&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; PURPOSE: To evaluate access to pediatric retina services, including examinations under anesthesia (EUA) and surgical interventions, at a provincial children&amp;#x27;s hospital before and during the coronal virus disease-19 (COVID-19) pandemic. METHODS: A retrospective review of pediatric retina service utilization at British Columbia Children&amp;#x27;s Hospital from January 1, 2012, to December 31, 2023, was conducted. The prepandemic period (2012-2019) was compared to the postpandemic period (2020-2023). Data collected included the number of procedures, procedure type (EUA vs surgical intervention), urgency classification, and number of unique patients. Annualized means were used to account for unequal study durations. Statistical comparisons are presented descriptively. RESULTS: A total of 257 procedures were performed in the prepandemic period and 204 during the pandemic period. The mean number of...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.jcjo.2026.04.017</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Escalating Burden of Anxiety Disorders Among Women of Reproductive Age: A Global Analysis and Machine Learning Projection to 2050</title>
+      <link>https://doi.org/10.21203/rs.3.rs-9260045/v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shiqi Tian, Yu Mao, Yu Wang, Xinmin Li, Fang Liu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Research Square&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21203/rs.3.rs-9260045/v1</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nature-centred Biodesign for Regeneration. Design understandings in Europe.</title>
+      <link>https://doi.org/10.21606/drs.2026.1387</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nina Costa, Pierre Oskam, Helen Charoupia, Fátíma Pombo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.1387</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to observe design practices</title>
+      <link>https://doi.org/10.21606/drs.2026.1429</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A Catros&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.1429</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical minerals in the body: towards re-use in orthopaedic healthcare</title>
+      <link>https://doi.org/10.21606/drs.2026.747</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Anne Schiffer, Anthony Cooper&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.747</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shifting from Creativity to Sympoiesis: A Site-Oriented Design Inquiry of More-than-Human Creative AI</title>
+      <link>https://doi.org/10.21606/drs.2026.1902</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Petra Jääskeläinen, Lisa Boulton, Ron Wakkary, Gillian Russell&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.1902</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Designerly Ethics: reflections on shadowing cancer patients and ideas for embedding ethics in practice</title>
+      <link>https://doi.org/10.21606/drs.2026.2226</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Erika Renedo Illarregi, Laura Hartman, Yeray Sañudo Recacha, Laura Aguado González, Jorge Sierra-Pérez, Alba Medina Castillo, Victoria Artigas Ortega, Carlos Romero Piqueras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.2226</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The wicked problem of AI policy design</title>
+      <link>https://doi.org/10.21606/drs.2026.1686</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Awais Hameed Khan, Saarim Saghir, Paul Henman&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.1686</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Who Cares? Approach: Materializing Values in Community-Based Participatory Research</title>
+      <link>https://doi.org/10.21606/drs.2026.1546</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Logan Wilkinson, Collen Reid, Caylee Raber, Jon Hannan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.1546</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keeping it Real with Responsible Futuring: Reflecting on the Epistemic and Political Ambition of a Transdisciplinary Approach for Societal Transitions</title>
+      <link>https://doi.org/10.21606/drs.2026.2192</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Cristina Zaga, Julieta Matos Castaño, Mascha van der Voort&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.2192</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AGNES as a Critical Wearable: Mediating Age, Materiality, and Embodied Expertise</title>
+      <link>https://doi.org/10.21606/drs.2026.2600</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Elisa Cardamone, Taylor Brennan, Sophia Ashebir, Lisa D’Ambrosio, Joseph Coughlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.2600</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emerging Hybrid Human-GenAI Workflows to Optimise Human Ideation, Sketching and Design</title>
+      <link>https://doi.org/10.21606/drs.2026.1725</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mauricio Muñoz, Juan Islas Munoz, Alejandro Lozano Robledo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.1725</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Practical Tips for Bringing Diversity, Equity, and Inclusion Education to the Clinical Environment</title>
+      <link>https://doi.org/10.1542/hpeds.2025-009104</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Cassandra Nelson, Victor Do, John Szymusiak, Allison Williams, Katharina Hayes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Hospital Pediatrics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1542/hpeds.2025-009104</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaffolding Oceans Futures: Design for embedded, embodied, and emergent thinking</title>
+      <link>https://doi.org/10.21606/drs.2026.341</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gillian Russell, Katherine Reilly, Jihyun Park, Lauren Thu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.341</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hybrid craft practices for sustainable materialities and narratives through digital fabrication</title>
+      <link>https://doi.org/10.21606/drs.2026.1127</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alessia Romani, Philip Gurrey, Imogen Clendinning, Junyu Ke, Joshua Pearce&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.1127</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CO2 Sequestration Models Enhancement and Improved Reliability Using Boundary Conditions for Regulatory Approval Purposes</title>
+      <link>https://doi.org/10.2118/231740-ms</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; G. Oliveira, D. Mercado, S. Singh, V. Lara&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; SPE Latin American and Caribbean Petroleum Engineering Conference&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract CO2 sequestration in deep saline aquifers is a key strategy for mitigating climate change. However, modeling these large aquifers presents a significant challenge: high-resolution models, while essential for accuracy and regulatory compliance, demand extensive computational time. This is particularly problematic for optimization and uncertainty analysis, which requires running multiple simulations. Traditional approaches, such as using simplified volume modifiers, fail to accurately simulate pressure propagation, which is a critical factor for defining the Area of Review (AoR). The AoR is the zone around injection well(s) monitored for pressure changes and CO2 migration, and its accurate representation is vital for regulatory assessments and ensuring caprock integrity. This study evaluates several advanced methodologies to represent a full saline aquifer, aiming to strike an...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.2118/231740-ms</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mechanical testing methods for orthopaedic research</title>
+      <link>https://doi.org/10.1302/2046-3758.156.bjr-2025-0268.r1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Radovan Zdero, Pawel Brzozowski, Emil H. Schemitsch, Irene Yang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Bone and Joint Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mechanical testing in a controlled laboratory setting is a vital part of orthopaedic research for investigating the structural-level performance or material-level properties of bones, joints, cartilage, soft tissues, and implants. The results can help researchers stay up to date on new findings, medical companies to develop more effective products, and university educators to instruct students on the practical relevance of classroom learning, so that there is a better understanding of orthopaedic conditions and injuries to optimize treatment. This article provides a brief and practical introduction to commonly used state-of-the-art methods, as well as some classic methods which are accurate, easy to use, and inexpensive, to measure different outcomes during in vitro mechanical testing. Planning a mechanical testing study, however, must be done before any experimentation by goal...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1302/2046-3758.156.bjr-2025-0268.r1</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhancing Operator Competency Through a Digital Twin–Based Operator Training Simulator in a Central Processing Facility</title>
+      <link>https://doi.org/10.2118/231765-ms</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Indira Llerena, Juan José Alvo, Carlos Sanita, Oswaldo Álvarez, Ramiro Jarrín, Vinicio Silva, Blanca Jimenez, Hugo Quevedo et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; SPE Latin American and Caribbean Petroleum Engineering Conference&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The commissioning of highly automated central processing facilities introduces new operational risks associated with insufficient operator exposure to abnormal and emergency conditions. This challenge became evident during the early operation of the CULEBRA 21 Central Processing Facility (CPF), designed to process 65 thousand barrels of oil per day (KBOPD), where initial abnormal events highlighted gaps in operator readiness despite advanced automation. While automation enhances efficiency and reduces routine manual intervention, it also limits experiential learning opportunities for operators, particularly under transient and upset conditions. To address this limitation, a Digital Twin–based Operator Training Simulator (OTS) was implemented as part of a broader digital transformation strategy focused on human factors, safety, and operational resilience. The OTS integrates a...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.2118/231765-ms</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redefining design practice as a sensory and decentred experience</title>
+      <link>https://doi.org/10.21606/drs.2026.466</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Azeem Hamid, Umar Hameed, Kristi Kuusk, Nithikul Nimkulrat&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.466</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Assumptions: Identity Mapping as a Tool for Inclusive Public Design Learning</title>
+      <link>https://doi.org/10.21606/drs.2026.2702</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Corie Seed, Chiara Del Gaudio&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.2702</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Make it So(und): Speculative Sonic Metaphors as Boundary Objects for Design Research</title>
+      <link>https://doi.org/10.21606/drs.2026.806</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; KC Collins&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.806</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring intentions and use scenarios behind Geomatic Data Artefacts for public health policies in Québec from a co-design perspective</title>
+      <link>https://doi.org/10.21606/drs.2026.2934</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Angélique Montuwy, Lorenz Herfurth&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Proceedings of DRS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: québec&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21606/drs.2026.2934</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A metabolite extracted from Escherichia coli suppresses tau aggregation.</title>
@@ -638,6 +610,34 @@
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kate Galloway&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of International Crisis and Risk Communication Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cozy video games such as Animal Crossing: New Horizons (Nintendo 2020) and Stardew Valley (ConcernedApe 2016) draw extensively from theme park design principles to craft experiences grounded in comfort, predictability, and sensory pleasure. Like theme parks, these games rely on spatial legibility, choreographed movement, controlled temporality, and carefully curated aesthetics. Their audiovisual landscapes featuring soft color palettes, miniaturized architecture, forced perspective, and clearly defined pathways echo the designed micro-worlds of parks, while looping tasks and repeatable activities mirror ride cycles and daily routines that encourage rhythmic engagement. Although often described through tropes of cuteness, pastoralism, or nostalgia, cozy games also operate as immersive, emotionally legible environments structured through multimodal theming, especially sound. Theme parks...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://openalex.org/W7162220989</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Human Oversight approaches at the forefront of responsible and trustworthy AI, from data-centric adaptive AI-Ops pipelines to Multi-Agent Systems</title>
+      <link>https://doi.org/10.5281/zenodo.20491956</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Marina Da Bormida in Cugurra, André Grilo, Carlos Agostinho, Sotirios Koussouris, André Tabone, Marta Csanalosi Artigas, Antonia Zumblick, Theodore Dalamagas et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The paper focuses on human oversight mechanisms in Artificial Intelligence (AI) systems and their pipelines, with particular attention to Human-in-the-Loop (HITL) and Human-on-the-Loop (HOTL) approaches. It explores their main advantages and challenges over fully autonomous systems, from a technical, legal and ethical perspective. The study discusses how the adoption of human judgment and feedback can address critical gaps in accuracy, accountability, fairness, transparency, and trust, especially when combined with explainable AI (XAI) techniques. However, such a human oversight paradigm can also raise issues, including scalability constraints, human error, cognitive load and fatigue, as well as biases in training data, privacy risks, “rubber stamping”, or even legal liability. These concepts, advantages and challenges are are first analysed through a literature review, and then further...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20491956</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hybrid Model Engineering: A Residual Learning Approach for Modular AI Pipelines</title>
+      <link>https://doi.org/10.5281/zenodo.20492448</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Theodora Chrysoula, Viktor Daropoulos, André Grilo, Vasilis Gkolemis, Anargiros Tzerefos, Eleni Lavasa, Theodore Dalamagas, Stratos Keranidis et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hybrid models combine first-principles knowledge with machine learning to enhance predictive performance while preserving physical consistency and interpretability. Despite their advantages, such approaches are often developed in a problem specific manner and lack standardized workflows that support reuse and systematic experimentation. To address this challenge, this work proposes a modular, pipeline-based framework for hybrid model engineering within the Data Analytics and Visualization Environment (DAVE). The proposed Hybrid Model Engineering Engine (HMEE) integrates domain knowledge and machine learning components as configurable operators embedded in directed acyclic graph pipelines, enabling structured experimentation and lifecycle management within a unified platform. As a first representative hybrid strategy, residual learning is implemented and demonstrated in a real-world...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20492448</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Human Oversight approaches at the forefront of responsible and trustworthy AI, from data-centric adaptive AI-Ops pipelines to Multi-Agent Systems</title>
+      <link>https://doi.org/10.5281/zenodo.20491957</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Marina Da Bormida in Cugurra, André Grilo, Carlos Agostinho, Sotirios Koussouris, André Tabone, Marta Csanalosi Artigas, Antonia Zumblick, Theodore Dalamagas et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The paper focuses on human oversight mechanisms in Artificial Intelligence (AI) systems and their pipelines, with particular attention to Human-in-the-Loop (HITL) and Human-on-the-Loop (HOTL) approaches. It explores their main advantages and challenges over fully autonomous systems, from a technical, legal and ethical perspective. The study discusses how the adoption of human judgment and feedback can address critical gaps in accuracy, accountability, fairness, transparency, and trust, especially when combined with explainable AI (XAI) techniques. However, such a human oversight paradigm can also raise issues, including scalability constraints, human error, cognitive load and fatigue, as well as biases in training data, privacy risks, “rubber stamping”, or even legal liability. These concepts, advantages and challenges are are first analysed through a literature review, and then further...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20491957</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hybrid Model Engineering: A Residual Learning Approach for Modular AI Pipelines</title>
+      <link>https://doi.org/10.5281/zenodo.20492449</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Theodora Chrysoula, Viktor Daropoulos, André Grilo, Vasilis Gkolemis, Anargiros Tzerefos, Eleni Lavasa, Theodore Dalamagas, Stratos Keranidis et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hybrid models combine first-principles knowledge with machine learning to enhance predictive performance while preserving physical consistency and interpretability. Despite their advantages, such approaches are often developed in a problem specific manner and lack standardized workflows that support reuse and systematic experimentation. To address this challenge, this work proposes a modular, pipeline-based framework for hybrid model engineering within the Data Analytics and Visualization Environment (DAVE). The proposed Hybrid Model Engineering Engine (HMEE) integrates domain knowledge and machine learning components as configurable operators embedded in directed acyclic graph pipelines, enabling structured experimentation and lifecycle management within a unified platform. As a first representative hybrid strategy, residual learning is implemented and demonstrated in a real-world...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20492449</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Les amendements de substrat facilitent l'élimination de l'azote dans les biofiltres traitant les surverses unitaires réelles</title>
