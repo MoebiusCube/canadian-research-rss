@@ -8,12 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 16:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 16:19:14 +0000</lastBuildDate>
     <item>
-      <title>The Rapid ASKAP Continuum Survey VII: Spectra and Polarisation In Cutouts of Extragalactic Sources (SPICE-RACS) Second Data Release – Unveiling the Magnetised Sky</title>
-      <link>https://doi.org/10.1017/pasa.2026.10214</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. J. M. Thomson, Timothy J. Galvin, S. W. Duchesne, E. Lenc, G. Heald, Ondrej Hlinka, Sunil Malik, C. S. Anderson et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Publications of the Astronomical Society of Australia&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract We present the second data release (DR2) of Spectra and Polarisation in Cutouts of Extragalactic sources from RACS (SPICE-RACS). SPICERACS DR2 is derived from the third low-band epoch of the Rapid ASKAP Continuum Survey (RACS-low3) and covers the entire sky from the South celestial pole up to a declination of +49°; approximately 87.5% of the celestial sphere. We produce ‘cutout’ spectral cubes in Stokes I , Q , U around 4 million radio sources and extract spectra towards 5 million radio components. Across our observed band of 799.5 to 1087.5MHz we find an rms noise of ∼ 200 μJy/PSF, an angular resolution of ∼ 15″, and residual wide-field instrumental polarisation on the order of 0.1 %. After de-duplication, our polarisation catalogue contains the detection of 2.5×10 5 (3.4×10 5 ) Faraday rotation measures (RM) for components with a linearly polarised signal above 8σ (6σ). This...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1017/pasa.2026.10214</guid>
+      <title>Monotone Circuit Complexity of Matching</title>
+      <link>https://doi.org/10.1145/3798129.3800824</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Bruno Pasqualotto Cavalar, Mika Göös, Artur Riazanov, Anastasia Sofronova, Dmitry Sokolov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We show that the perfect matching function on n-vertex graphs requires monotone circuits of size 2nΩ(1). This improves on the nΩ(logn) lower bound of Razborov (1985). Our proof uses the standard approximation method together with a new sunflower lemma for matchings.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1145/3798129.3800824</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -203,13 +203,6 @@
       <link>https://doi.org/10.1080/10256016.2026.2680721</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Geoff Koehler, Benoı̂t Jobin, Nick Bartok, Steven L. Van Wilgenburg&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Isotopes in Environmental and Health Studies&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada&lt;/p&gt;</description>
       <guid isPermaLink="false">https://doi.org/10.1080/10256016.2026.2680721</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Longitudinal multimodal characterization of α-synuclein pathology in the common marmoset</title>
-      <link>https://doi.org/10.5281/zenodo.20612447</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alessandro Zanini&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding how α-synuclein misfolding and spreading affect brain systems is central to synucleinopathy research, yet evidence from primate models remains limited. Here, we combined histology, awake structural MRI, awake resting-state fMRI, regional homogeneity, actimetry and touchscreen behavioral testing to longitudinally track the consequences of striatal α-synuclein seeding in the common marmoset. Phosphorylated α-synuclein inclusions were detected from 2 months post-injection and spread progressively to distributed cortical and subcortical regions bilaterally, accompanied by regionally specific structural atrophy. Functional imaging revealed widespread disruption of large-scale networks, particularly within fronto-limbic circuits, alongside reductions in local functional coherence. Despite the absence of overt motor or sleep deficits, animals exhibited a selective impairment in...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20612447</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -413,6 +406,13 @@
       <link>https://doi.org/10.1098/rsos.252320</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Annelise Binois‐Roman, Louis L’Hôte, Róisín Ferguson, Kevin G. Daly&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Royal Society Open Science&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Epizootic outbreaks posed major threats to food security, economic stability and animal welfare in past communities. While these events and their impacts are well documented in historical records, very few archaeological examples are known, and none for which the causal agent has been reliably identified. We therefore investigated a seventeenth- to nineteenth-century ovine mass-mortality assemblage from Louvres, France, using an interdisciplinary approach integrating palaeogenetics, zooarchaeology, history and veterinary science. The deposit contained nine complete, articulated sheep skeletons, mostly older individuals of both sexes, which were unbutchered but displayed flaying marks. Aside from minor age-related lesions and one ectopic bone nodule, the animals exhibited good skeletal health, with no obvious cause of death. Ancient DNA analysis was therefore conducted and...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://doi.org/10.1098/rsos.252320</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JAIPER-1 V7 Phase 3 – High-Frequency Regime Transition and Multi-Scale Ringi</title>
+      <link>https://doi.org/10.5281/zenodo.19646214</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; jaime eliecer perez davila&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract (English): Phase 3 evaluates the robustness of the JAIPER-CORE geometric shaping framework under high-frequency (HF) dynamic regimes. Utilizing a fast RLC topology (L = 4.7 uH, C = 100 nF), the system operated within a 20-50 ns/div temporal scale. The transition allowed for clearer modal separation and confirmed the applicability of the V10 mitigation strategy in ultra-fast domains. Crucially, spectral signatures initially identified in the hundreds of MHz were formally reclassified as Moiré optical aliasing and spatial discretization artifacts inherent to the computer vision acquisition process. The phase produced the first formal distinction between physical plant dynamics and image-reconstruction artifacts, establishing a methodological foundation for the subsequent closed-loop adaptive framework. This methodological discovery necessitated the implementation of bounded-band...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.19646214</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
