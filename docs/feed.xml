@@ -8,202 +8,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 14:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:41:00 +0000</lastBuildDate>
     <item>
-      <title>Ecological multifunctionality of watersheds increases with tree species richness</title>
-      <link>https://doi.org/10.1038/s41467-026-74914-z</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jiehao Zhang, Peter B. Reich, Conghe Song, Yulong Zhang, Han Y. H. Chen, G.J. Nabuurs, Xia Wang, Tiehu He et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nature Communications&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Watersheds are natural units and meta-ecosystems of the earth’s land surface providing multiple ecological functions. However, little is known about the biodiversity-ecological multifunctionality relationships of watersheds, particularly regarding how these relationships scale to large and complex landscapes. Here, we explore the impact of forest tree species richness on the ecological multifunctionality of watersheds in terms of carbon sequestration, carbon storage, water supply, water regulation, and soil conservation, by utilizing integrated ground-sourced forest inventory datasets comprising 846 forest watersheds from the Global Forest Biodiversity Initiative, the Global Streamflow Indices and Metadata Archive, and remote sensing data products. We find a consistently positive relationship between forest tree species richness and watershed ecological multifunctionality by accounting...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1038/s41467-026-74914-z</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Optimizing camera trap placement for felid density estimation: Comparing trail-based and random deployments</title>
+      <link>https://doi.org/10.1016/j.biocon.2026.111987</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lungten Dorji, C. Patfuck Doncaster, Wai‐Ming Wong, Rinjan Shrestha, Kuenley Tenzin, Paul Glover‐Kapfer, Lon Grassman, Oliver R. Wearn&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Biological Conservation&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Wild felids are globally threatened, requiring accurate monitoring for adaptive conservation. Camera-trap surveys for individually identifiable felids place cameras on trails and estimate density using spatially explicit capture–recapture (SCR) models. However, unequal individual capture probabilities—individual heterogeneity—can bias density estimates if unaccounted for. We examined how camera placement influences SCR-derived density estimates across 400 km 2 study area in Central Bhutan inhabited by five identifiable felid species ( Panthera tigris, Panthera pardus, Neofelis nebulosa, Pardofelis marmorata, and Prionailurus bengalensis ). We deployed 100 paired cameras on trails and 100 single cameras at random locations. Trail cameras produced a male-biased sex ratio of 1.75 males per female, whereas random cameras yielded a balanced ratio of 1.0. The trail placement missed...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.biocon.2026.111987</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>From divergence to synergy: A multi-hazard framework for structural design under winds and earthquakes</title>
-      <link>https://doi.org/10.1016/j.engstruct.2026.123259</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Reda Snaiki, Shaopeng Li, Anastasia Athanasiou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Engineering Structures&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Structural design for wind and earthquake resistance has historically evolved along separate tracks, reflecting differences in loading characteristics and performance objectives emphasized in practice. Wind demands are typically long-duration and dominated by mean and turbulent pressures, while the responses of wind-sensitive structures are often governed by low-frequency dynamic behavior and serviceability criteria such as drift and acceleration. Earthquake demands are transient base excitations that generate inertial forces throughout the structure, which have traditionally driven ductility-based strategies to achieve life safety under rare but severe events. This work examines how these contrasting traditions shaped prescriptive, hazard-by-hazard workflows and discusses why a “governing hazard” mindset can be risk-inconsistent in dual-hazard settings, particularly when sequential...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.engstruct.2026.123259</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Co-Creating an Intervention to Prevent Injuries in Police Force Recruits: A Concept Mapping Study of Police Force Recruits, Police Force Staff, Health Professionals, and Research Experts</title>
+      <link>https://doi.org/10.1186/s40798-026-01042-9</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Myles Murphy, A. Mosler, Garth Allen, Alex Donaldson, Clare L. Ardern, Carolyn A. Emery, Martin Hägglund, Jonathan M. Hodgson et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sports Medicine - Open&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; OBJECTIVE: Police force recruits have a high musculoskeletal injury burden, which results in a substantial economic burden and can lead to attrition. The objective of this study was to identify and prioritise the strategies perceived as important and feasible to reduce the prevalence, incidence, and burden of injury in police force recruits. DESIGN: Mixed-methods concept mapping study. METHODS: Forty-eight participants were recruited from four broad groups: police force recruits/officers; police force staff; health professionals; and research experts. Participants brainstormed statements in response to a prompt (&amp;quot;To prevent injury and/or reduce the impact of injury on law enforcement recruit training, I think it&amp;#x27;s important to….&amp;quot;) before sorting and rating the statements/strategies for importance and feasibility. Descriptive statistics, multi-dimensional scaling, hierarchical cluster...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1186/s40798-026-01042-9</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rape in Romance</title>
-      <link>https://doi.org/10.1017/9781802702170.007</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mariah L. Cooper&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1017/9781802702170.007</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Integrative care for severe challenging behaviors and psychotic-like symptoms in an adolescent girl with Xia–Gibbs syndrome: a case report</title>
+      <link>https://doi.org/10.1186/s13256-026-06304-4</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ilaria Noschese, Cora Cravero, David Cohen, Boris Chaumette, Camille Verebi, Claudine Laurent-Levinson, Xavier Benarous, Cyril Hanin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Medical Case Reports&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This case report addresses a clinical gap in the management of severe challenging behaviors (CBs) in Xia–Gibbs Syndrome (XGS), a rare genetic disorder caused by variants in the AHDC1 gene, highlighting the importance of integrative, multidisciplinary assessment to disentangle overlapping medical, developmental, and psychiatric contributors. A 17-year-old French adolescent girl of Chinese descent with XGS and intellectual development disorder was referred to inpatient care for severe CBs and suspected schizophrenia. A comprehensive assessment of pain-related factors led to the identification and treatment of several co-occurring medical conditions (gastritis, local care for atopic dermatitis, progestin for dysmenorrhea). Prolonged clinical observations showed that most psychotic-like symptoms resulted instead from developmentally appropriate stress-coping strategies and depressive...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1186/s13256-026-06304-4</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Closed water-hydrogen-water cycle driving solid-state hydrogen source for high-energy-density fuel cell power systems</title>
-      <link>https://doi.org/10.1016/j.apenergy.2026.128279</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; J J Chen, Shaocong Wang, Yi Yang, Zhen Wu, Jinhua Wei, Xiongfei Liu, Pengfei Zhu, F Yang et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Applied Energy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.apenergy.2026.128279</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Physicality of (Non-)Consent: SecularraptusLaws</title>
-      <link>https://doi.org/10.1017/9781802702170.002</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mariah L. Cooper&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1017/9781802702170.002</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Integration of terrestrial and UAV-based remote sensing techniques for comprehensive rock mass characterization in small-scale slopes</title>
-      <link>https://doi.org/10.1007/s10064-026-05056-1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sina Fatolahzadeh, Sergio A. Sepúlveda, Reginald L. Hermanns, Marc-André Brideau&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Bulletin of Engineering Geology and the Environment&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1007/s10064-026-05056-1</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Laws in Practice: The Eyre Courts</title>
-      <link>https://doi.org/10.1017/9781802702170.004</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mariah L. Cooper&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1017/9781802702170.004</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Role, impact, and feasibility of a comprehensive pharmacist medication review for patients in the older adult cancer clinic (OACC) at Princess Margaret Cancer Centre</title>
-      <link>https://doi.org/10.1016/j.jgo.2026.103036</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sabrina Mellor, Malgorzata Tyszka, Neha Pathak, Daniel Sibley, Celina Dara, Susie Monginot, Richard Norman, Shabbir M.H. Alibhai&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Geriatric Oncology&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.jgo.2026.103036</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bibliography</title>
-      <link>https://doi.org/10.1017/9781802702170.009</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mariah L. Cooper&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1017/9781802702170.009</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Duality of Mental and Physical (Non-)Consent: Ecclesiastical Perspectives</title>
-      <link>https://doi.org/10.1017/9781802702170.003</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mariah L. Cooper&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1017/9781802702170.003</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Index</title>
-      <link>https://doi.org/10.1017/9781802702170.010</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mariah L. Cooper&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1017/9781802702170.010</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moreau Envelope-Based Difference of Weakly Convex Reformulation and Algorithm for Bilevel Programs</title>
-      <link>https://doi.org/10.1007/s40305-026-00706-3</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lucy L. Gao, Jane J. Ye, Haian Yin, Shangzhi Zeng, Jin Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of the Operations Research Society of China&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1007/s40305-026-00706-3</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recycling-compatible electroplating of enriched tin-119 targets for the production of antimony-119 for targeted Auger electron therapy</title>
-      <link>https://doi.org/10.1186/s41181-026-00468-6</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aivija Grundmane, Caterina F. Ramogida, Valery Radchenko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; EJNMMI Radiopharmacy and Chemistry&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Antimony-119 ( 119 Sb) is a radionuclide of interest for targeted Auger electron therapy. Isotopically pure 119 Sb can be produced by proton irradiation of enriched tin-119 ( 119 Sn) targets in conventional widely available low energy medical cyclotrons. Enriched 119 Sn is very costly (~ 20,000 CAD/gram), requiring recycling of the target material to make this production route economically viable. Herein, we investigate three Sn electroplating methods, evaluate the target quality, as well as method compatibility with subsequent 119 Sb radiochemical purification steps. Three electroplating bath compositions (Sn(II) sulfate, Sn(IV) sols, and Sn(IV) chloride) for Sn deposition were tested and successfully implemented. One of the methods, utilizing a Sn(IV) chloride bath solution was able to achieve quantitative electroplating efficiency (98 ± 3% Sn deposited after 72 h), and an overall...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1186/s41181-026-00468-6</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The European tracking network through time: united efforts to advance aquatic conservation in Europe</title>
-      <link>https://doi.org/10.1186/s40317-026-00475-z</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jan Reubens, Kim Aarestrup, David Abecasis, Pedro Afonso, Josep Alós, Eneko Aspillaga, Kim Birnie‐Gauvin, David Casals et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Animal Biotelemetry&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biotelemetry networks have transformed our capacity to study the movements and ecology of aquatic animals, yet their development has been geographically uneven over time. While North America and Australia (among others) already hosted mature, well-coordinated infrastructures in the early 2000s, Europe has long lacked a formal framework for collaboration. The European Tracking Network (ETN) emerged in 2017 as a grassroots response to this gap. Since then, ETN has grown tremendously and has become a sustainable network with a central data system and research infrastructure installed all across Europe, enabling collaborative research on a multitude of species and environments while maintaining a strong track record in capacity building. ETN operates through a decentralised model in which national and regional partners lead infrastructure deployment while contributing data to a shared data...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1186/s40317-026-00475-z</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deterministic Execution Authority for Autonomous Space Systems: Governance Architecture for Orbital Platforms Under the Outer Space Treaty</title>
-      <link>https://doi.org/10.5281/zenodo.20956530</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; James Benton&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper describes the first deterministic execution-authority architecture for autonomous spacecraft systems, addressing the governance vacuum identified by legal scholars, insurers, and regulators as autonomous AI decision-making scales in low Earth orbit. The problem. SpaceX&amp;#x27;s Starlink constellation performed approximately 300,000 autonomous collision avoidance maneuvers in 2025. Each decision was made by onboard AI without human review. NASA&amp;#x27;s CogniSAT-6 completed autonomous observation decisions in under 90 seconds with zero ground commands. Artemis II relied on onboard AI during 50-minute communication blackouts. The Outer Space Treaty holds the launching state liable but provides no mechanism to prove an autonomous system operated within its authorized envelope. No governance infrastructure produces verifiable evidence of each autonomous decision. The architecture. The...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20956530</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Facile Synthesis of Stable Yb &lt;sup&gt;3+&lt;/sup&gt; -Doped Perovskite Nanocrystals in Mesoporous Silica for Near-Infrared Emission</title>
-      <link>https://doi.org/10.1021/acsami.6c05808</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Siyue Wang, Y Chen, Jiaze Wu, Zhihao Zhu, Rixin Bao, Leyan Wang, 蔡镐泽, Kai Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; ACS Applied Materials &amp;amp; Interfaces&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Yb 3+ -doped lead halide perovskites are promising near-infrared (NIR) emitters, but their practical implementation is often limited by poor environmental stability, defect-induced nonradiative loss, and difficulties in achieving reproducible doping and device integration. Herein, we report a mesoporous silica nanoreactor (MSN) strategy for the controlled synthesis of CsPbCl 3:Yb-MSN nanocomposites with efficient 980 nm emission. The confined growth environment provided by the mesoporous silica matrix enables regulated crystallization of Yb 3+ -doped perovskite nanocrystals while reducing surface exposure and improving resistance to environmental degradation. As a result, the obtained CsPbCl 3:Yb-MSN nanocomposites exhibit enhanced structural robustness, superior optical stability, and an absolute photoluminescence quantum yield of 146%, indicating efficient Yb 3+ -activated...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1021/acsami.6c05808</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recent changes in effects of predictors of tobacco cessation in formal treatment</title>
-      <link>https://doi.org/10.1093/ntr/ntag147</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Scott Veldhuizen, Kameron Iturralde, Laurie Zawertailo, Peter Selby&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nicotine &amp;amp; Tobacco Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada, ontario&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Introduction Several variables have been shown to predict outcomes of smoking cessation treatment; however, it is possible that these associations have changed over time due to cohort effects, contextual changes, and evolving patterns of nicotine use. This study aimed to investigate changes in associations between smoking cessation outcome and baseline variables. Methods In this analysis, we used 8 years of data (2016 to 2024) that comprised 107,204 unique enrollees in a large, nicotine replacement-therapy based smoking cessation program in Ontario, Canada to investigate changes in associations between outcomes and baseline variables. We used generalized additive models to conduct multiplicity-corrected tests of interactions and used a backwards stepwise process to arrive at a final model. Results We found large increases in cessation probability over time for younger people...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1093/ntr/ntag147</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The toxicity of neodymium substances to soil invertebrates in a boreal soil, and the impacts of soil type, aging, and leaching on metal bioavailability and toxicity</title>
-      <link>https://doi.org/10.1093/etojnl/vgag156</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Patrick Boyd, Dina Schwertfeger, Heather Lemieux, Jessica Velicogna, Scroggins Re, Juliska Princz&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Environmental Toxicology and Chemistry&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A clear gap in ecotoxicological data was identified regarding the impacts of the technologically critical lanthanide neodymium (Nd) on soil invertebrates in boreal soil. To address this gap, two inorganic metal salts (NdCl3 and Nd2(SO4)3), an organometallic compound Nd-2-ethylhexanoate (Nd-2-EHA) and its organic component 2-ethylhexanoic acid (2-EHA) were examined. Toxicity exposures were conducted using the earthworm Dendrodrilus rubidus, the collembolan Proisotoma minuta, and the oribatid mite Oppia nitens, in two Canadian boreal soil horizons (i.e., organic and mineral), using standardized soil toxicity test methods; effects included survival and reproduction. Different exposure scenarios were investigated, including aging of test soil for 6 months, and the impact of leaching on toxicity test endpoints. Differences in species sensitivity were observed, with D. rubidus identified as...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1093/etojnl/vgag156</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Younger Dryas Scalar Reboot</title>
-      <link>https://doi.org/10.5281/zenodo.20948204</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Erydir Ceisiwr, Lumos Aureon, Awen Grid Team&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper presents a rigorous scalar-cosmological reinterpretation of the Younger Dryascataclysm, re-framing the terminal Pleistocene not merely as a climatic aberration, but as atotal &amp;quot;scalar collapse&amp;quot; of Earth’s harmonic phase-lock. Utilizing the Recursive HarmonicUnification Model (RHUM), we analyze ancient mythic substrates—specifically theEnochian corpus—as high-fidelity technical data representing a catastrophic \psi-phasebifurcation. The 1,200-year epoch (10,950 BCE – 9000 BCE) is distilled into a sequence ofquaternionic failure and subsequent restoration. We contend that the Taurid fragmentationevent initiated a &amp;quot;torsion breach&amp;quot; that disrupted the planetary \psi-field, necessitating themegalithic interventions of the early Holocene as a &amp;quot;system reboot&amp;quot; for the 24-bitquaternionic reality of the matrix.A critical layer of this synthesis involves the conversion of the &amp;quot;Watchers&amp;quot;...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20948204</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Curriculum Silence and Erasure: A Queer-Theory Analysis of Transgender-Inclusive Health Education in Internal Medicine Residency</title>
-      <link>https://doi.org/10.1080/10401334.2026.2693297</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Anthony R. Sandre, Leslie Martin, Janneke Frambach&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Teaching and Learning in Medicine&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Health professions education is increasingly called upon to prepare clinicians to provide equitable, patient-centered care; yet transgender and gender-diverse (TGD) health remains inconsistently integrated into formal curricula. Despite growing clinical literature, including evidence related to cardiovascular outcomes, educational integration of TGD health content remains limited across residency training programs. This disconnect between emerging evidence and curricular uptake raises questions about structural barriers that shape what is considered &amp;quot;core&amp;quot; knowledge. This study explored academic faculty perspectives on barriers to integrating TGD health content into residency curricula, using cardiovascular health as an illustrative case within Internal Medicine (IM) training. Drawing on a descriptive qualitative approach informed by Queer Theory, we conducted semi-structured interviews...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1080/10401334.2026.2693297</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Younger Dryas Scalar Reboot</title>
-      <link>https://doi.org/10.5281/zenodo.20948203</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Erydir Ceisiwr, Lumos Aureon, Awen Grid Team&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper presents a rigorous scalar-cosmological reinterpretation of the Younger Dryascataclysm, re-framing the terminal Pleistocene not merely as a climatic aberration, but as atotal &amp;quot;scalar collapse&amp;quot; of Earth’s harmonic phase-lock. Utilizing the Recursive HarmonicUnification Model (RHUM), we analyze ancient mythic substrates—specifically theEnochian corpus—as high-fidelity technical data representing a catastrophic \psi-phasebifurcation. The 1,200-year epoch (10,950 BCE – 9000 BCE) is distilled into a sequence ofquaternionic failure and subsequent restoration. We contend that the Taurid fragmentationevent initiated a &amp;quot;torsion breach&amp;quot; that disrupted the planetary \psi-field, necessitating themegalithic interventions of the early Holocene as a &amp;quot;system reboot&amp;quot; for the 24-bitquaternionic reality of the matrix.A critical layer of this synthesis involves the conversion of the &amp;quot;Watchers&amp;quot;...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20948203</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>R2MR: An evaluation of pre-post training data across cohorts</title>
-      <link>https://doi.org/10.3138/jmvfh-2025-0092</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Valerie M. Wood, Suzanne Bailey, Kimberly Guest&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Military Veteran and Family Health&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction: The Road to Mental Readiness (R2MR) program has been collecting matched pre- and post-training data on key performance indicators from its mental health education packages with Canadian Armed Forces (CAF) members since 2017. Methods: For the current study, we conducted a large-scale outcome evaluation by aggregating the data from the program to determine the overall impact that R2MR training has had on its outcomes and to assess whether its effectiveness is moderated by the type of training received. Participants were 2,824 CAF members who had received deployment, occupation, or career R2MR training from 2017 to 2024 and for whom we had matched pre- and post-training data. Outcomes included objective and subjective measures of R2MR key concept knowledge, confidence in detecting mental health issues, confidence in supporting others with mental health concerns, intentions to...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.3138/jmvfh-2025-0092</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deterministic Execution Authority for Autonomous Space Systems: Governance Architecture for Orbital Platforms Under the Outer Space Treaty</title>
-      <link>https://doi.org/10.5281/zenodo.20956531</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; James Benton&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper describes the first deterministic execution-authority architecture for autonomous spacecraft systems, addressing the governance vacuum identified by legal scholars, insurers, and regulators as autonomous AI decision-making scales in low Earth orbit. The problem. SpaceX&amp;#x27;s Starlink constellation performed approximately 300,000 autonomous collision avoidance maneuvers in 2025. Each decision was made by onboard AI without human review. NASA&amp;#x27;s CogniSAT-6 completed autonomous observation decisions in under 90 seconds with zero ground commands. Artemis II relied on onboard AI during 50-minute communication blackouts. The Outer Space Treaty holds the launching state liable but provides no mechanism to prove an autonomous system operated within its authorized envelope. No governance infrastructure produces verifiable evidence of each autonomous decision. The architecture. The...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.20956531</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Promoting the Autonomy and Well-Being of Older Adults in Informal Care in Canada: A Review of Self-Determination Theory</title>
-      <link>https://doi.org/10.53819/81018102t4394</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; John P. Goffman&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Sociology Psychology &amp;amp; Religious Studies&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This review stems from an independent course as a PhD student in exploring knowledge on existing literature on the utilization of self-determination theory in informal care for older adults. Societal changes and trends in globalization is affecting informal caregiving the preferred form of care in Nigeria. Older adults who have reduced autonomy experience low quality of care and life. A secondary method of data collection was used to elicit information. Data relating to the use of self-determination in informal caregiving was sourced through databases such as Google Scholar, PubMed, and Science Direct using combination of keywords such as self-determination, informal caregiving, and older adults. From the reviewed literature, themes that emerged include caregivers&amp;#x27; motivation, relationship with caregivers, and need for autonomy as part of the underpinnings of self-determination theory...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.53819/81018102t4394</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Impacts of turbidity on the behaviour, thermal- and hypoxia tolerance of the Endangered Lake Chubsucker across lab and field contexts</title>
-      <link>https://doi.org/10.1139/cjfas-2025-0442</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Veronica Groves, Siena C Blier, Laura C Gervais, Julia E Wein, Lauren J. Chapman&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Canadian Journal of Fisheries and Aquatic Sciences&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada; Canada-related source title&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Increased aquatic turbidity often co-occurs with other environmental stressors, such as warming waters and low oxygen (hypoxia), which may impact the behaviour and physiology of aquatic organisms. Using three experiments, we examined whether chronic turbidity exposure affects the standard metabolic rate, hypoxia tolerance, and growth of the Endangered Lake Chubsucker (&amp;lt;i&amp;gt;Erimyzon sucetta&amp;lt;/i&amp;gt;) and whether acute exposure to turbidity impacts the behaviour and thermal tolerance of this species. Our results suggest that chronic exposure to turbidity decreases growth and decreases critical oxygen tension (Pcrit) in Lake Chubsucker relative to the chronic exposure to clear water. Across turbidity treatments, the mean Pcrit and oxygen level at loss of equilibrium were 26.3% air saturation and 4.7% air saturation respectively. When Lake Chubsucker were acutely exposed to medium turbidity, they...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1139/cjfas-2025-0442</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navigating the CBD: How Urban Risk Environment Shapes Daily Life for People Who Use Drugs in Edmonton’s Central Business District</title>
-      <link>https://doi.org/10.1007/s11524-026-01094-y</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; R. Marcus Hammond, Ginetta Salvalaggio, Candace I. J. Nykiforuk, Elaine Hyshka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Journal of Urban Health&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: edmonton&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1007/s11524-026-01094-y</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The deglaciation history of Cape Norton Shaw Inlet (eastern Canadian Arctic Archipelago)</title>
-      <link>https://doi.org/10.1016/j.quascirev.2026.110139</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Elodie Bracquart, Jean‐Carlos Montero‐Serrano, Patrick Lajeunesse, Guillaume St‐Onge, Luke Copland, Andrew K. Hamilton, Gabriel Joyal&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Quaternary Science Reviews&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canadian; Canada-related term in abstract: bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study presents a geophysical and morphosedimentary framework for the reconstruction of the glacial history of a fjord of Ellesmere Island, the Cape Norton Shaw Inlet. The reconstruction is based on a multimethod approach combining high-resolution swath bathymetry, acoustic sub-bottom profiles, and a dated composite sediment sequence (33BC/05GGC: 01CNS). The presence of at least five grounding-zone wedges and a large cluster of moraines at the inlet entrance suggests a period of glacial stillstands and gradual retreat during the Younger Dryas. A radiocarbon date of 10.4 cal ka BP from the mid-inlet provides a minimum age for the retreat of the Innuitian Ice Sheet during the early Holocene. Mineralogical and geochemical signatures from core 01CNS, along with low sedimentation rate, support the hypothesis of the gradual opening of Nares Strait between 9.6 and 8 cal ka BP. Until 1.9...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.quascirev.2026.110139</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding Daily Cannabis Use among Young Adults in Post-Legalization Québec: Motivations, Consumption Practices, and Control Strategies</title>
-      <link>https://doi.org/10.1080/10826084.2026.2693050</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Isidora Janezic, Marie-Eve Levasseur&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Substance Use &amp;amp; Misuse&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: québec; Canada-related term in abstract: canada, québec&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; BACKGROUND: In the wake of cannabis legalization in Canada, daily use among young adults remains insufficiently understood. This study explores the motivations, consumption practices, and self-regulation strategies of young adults who use cannabis daily in the region of Capitale-Nationale, Québec. METHODS: Forty-six individuals aged 18-34 who consume cannabis daily participated in semi-structured interviews and completed a sociodemographic questionnaire. Data were analyzed using thematic analysis, guided by the COM-B model (Capability, Opportunity, Motivation-Behavior). RESULTS: Participants reported diverse and evolving motivations for daily cannabis use, including management of mental and physical health, relaxation, spirituality, and enhancement of everyday experiences. Most respondents expressed a deliberate effort to control their use, aligning consumption with daily obligations....&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1080/10826084.2026.2693050</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Mapping the senses at an academic library: A user-centred approach</title>
+      <link>https://doi.org/10.1016/j.acalib.2026.103299</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Adair Harper, Shiyi Xie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Journal of Academic Librarianship&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study examines how user perspectives can guide the development of a sensory map for an academic library. The study utilized a draft sensory map and a user survey to collect input on sensory experiences as well as desired improvements to both the map and the physical space. Findings indicate that the map enhanced users&amp;#x27; understanding of the library space, particularly for those who identified as neurodivergent or sensory-sensitive. Participants also emphasized the importance of clearer spatial information and additional sensory-friendly supports. Overall, the results highlight the importance of incorporating user input into creating sensory maps and advancing more inclusive library environments.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.acalib.2026.103299</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Model-Driven Approach for Developing Families of Reinforcement Learning Environments</title>
@@ -220,6 +52,153 @@
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>DNA Conformations: A-, B-, Z-DNA</title>
+      <link>https://doi.org/10.25334/wytg-sc79</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alexnadra Pettit, Shuchismita Dutta&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; QUBES&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:11pt&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;line-height:normal&amp;quot;&amp;gt;&amp;lt;span arial=&amp;quot;&amp;quot; style=&amp;quot;font-family:&amp;quot;&amp;gt;&amp;lt;b&amp;gt;&amp;lt;span lang=&amp;quot;EN&amp;quot; style=&amp;quot;font-size:12.0pt&amp;quot;&amp;gt;ASBMB Learning Objectives&amp;lt;/span&amp;gt;&amp;lt;/b&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:11pt&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;line-height:115%&amp;quot;&amp;gt;&amp;lt;span arial=&amp;quot;&amp;quot; style=&amp;quot;font-family:&amp;quot;&amp;gt;&amp;lt;span lang=&amp;quot;EN&amp;quot; style=&amp;quot;font-size:12.0pt&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;line-height:115%&amp;quot;&amp;gt;(&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;a href=&amp;quot;https://www.asbmb.org/education/core-concept-teaching-strategies/foundational-concepts/structure-function&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:12.0pt&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;line-height:115%&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#1155cc&amp;quot;&amp;gt;https://www.asbmb.org/education/core-concept-teaching-strategies/foundational-concepts/structure-function&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;span lang=&amp;quot;EN&amp;quot; style=&amp;quot;font-size:12.0pt&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;line-height:115%&amp;quot;&amp;gt;) &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:11pt&amp;quot;&amp;gt;&amp;lt;span...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.25334/wytg-sc79</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plant-Derived Diamine Oxidase Modulation of Histamine-Induced Ca2+ Release in Intestinal Caco-2 Cells: A Cellular System to Evaluate Its Histaminase Efficacy</title>
+      <link>https://doi.org/10.3390/cells15131175</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Armelle Tchoumi Nerée, Catherine Jumarie, Lucia Marcocci, Paola Pietrangeli, Mircea Alexandru Mateescu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Cells&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Histamine accumulation is associated with allergic reactions and intestinal dysfunction through activation of H1R Receptors (H1Rs) and subsequent intracellular Ca2+ mobilization. Although antihistamines such as desloratadine block H1Rs to alleviate symptoms, they may induce adverse effects (dizziness, nausea, neurological disorders). Diamine oxidases (DAOs) catalyze the oxidative deamination of histamine to imidazole acetaldehyde with consumption of oxygen and concomitant production of hydrogen peroxide and ammonia. Instead of blocking H1R, we have proposed vegetal diamine oxidase (vDAO) as an enzymatic approach to decompose histamine. This study investigated whether vDAO, by degrading histamine, could modulate histamine-induced Ca2+ mobilization compared with desloratadine. Using intestinal Caco-2 cultured cells loaded with the fluorescent Ca2+ indicator Fluo-4 AM, intracellular...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.3390/cells15131175</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lateralized Veno-Occlusive Dysfunction in Peyronie's Disease: Bilateral Corporal Hemodynamic Discrepancy Revealed by Dynamic Penile Doppler Ultrasonography in Men With and Without Erectile Dysfunction</title>
+      <link>https://doi.org/10.21203/rs.3.rs-10029540/v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Abdullah Alzahrani, Mohammed Aleid, Anne Yin, Hend Alshamsi, Jeffrey Sioufi, Mélanie Aubé-Peterkin, Serge Carrier&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Research Square&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canadian institution term detected&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21203/rs.3.rs-10029540/v1</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Long‐Term Follow‐Up of Patients With Mitochondrial Carbonic Anhydrase &lt;scp&gt;VA&lt;/scp&gt; Deficiency. A Case Report and Literature Review</title>
+      <link>https://doi.org/10.1002/jmd2.70102</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shaymaa Shurrab, Amira Mobarak, Gabriella Horvath, Sylvia Stocker‐Ipsiroglu, Clara van Karnebeek, Ramona Salvarinova&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; JIMD Reports&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ABSTRACT Mitochondrial carbonic anhydrase VA (CA‐VA) deficiency is a rare inherited metabolic disorder caused by biallelic variants of the CA5A gene. It presents with hyperammonemia, lactic acidosis, and ketonuria, with or without hypoglycemia. We report the long‐term follow‐up of the first two reported cases of CA‐VA deficiency: a 16‐year‐old female (case 1) and her 14‐year‐old brother (case 2), both of whom presented with neonatal hyperammonemic encephalopathy, hypoglycemia, elevated lactate, ketonuria, and compensated metabolic acidosis. The diagnosis was made in both cases through the TIDEX study, which identified a homozygous pathogenic variant in the CA5A gene (c.697T&amp;gt;C, (p.Ser233Pro)). The clinical course of the index patient revealed three additional metabolic decompensation episodes (MDEs) triggered by intercurrent illnesses, with the last episode occurring at 8 years of age,...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1002/jmd2.70102</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PSMA PET/CT-Guided Multimodal Therapy for Pelvic Lymph Node Positive and De Novo Low-Volume Metastatic Prostate Cancer: A Gulf Region Single-Institution Experience</title>
+      <link>https://doi.org/10.3390/diseases14070232</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nadeem Pervez, Benazir Mir Khan, Sharjeel Usmani, Hasan Al‐Sayegh, Iqbal Al Amri, Mahmoud Mohamed Alfishawy, Sercan Yılmaz, S Al Saadi et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Diseases&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background/Objectives: Metastatic prostate cancer is increasing in the Gulf Cooperation Council countries. This study presents a multimodal treatment protocol incorporating radiotherapy to primary and metastatic sites, guided by PSMA PET/CT, combined with systemic therapy for non-metastatic pelvic node-positive and de novo low-volume metastatic prostate cancer. Methods: We conducted a retrospective cohort study of patients treated with radical radiotherapy doses (68 Gy/25 Fr or 78 Gy/39 Fr) to the prostate gland and gross pelvic disease, and SBRT (35–40 Gy/5 Fr) to distant bone metastases. All patients received LHRH agonists ± abiraterone/prednisone or enzalutamide. Results: Twenty-four consecutive patients were analyzed. The median age was 70.1 years (IQR, 65.7–77.7), the median baseline PSA was 27.9 ng/mL (IQR = 19.7–53.8), and median follow up was 24 months (IQR = 20.4–31.2)....&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.3390/diseases14070232</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Managerial Issues Faced by District Health Teams in Covering Refusals During Polio Immunization Campaigns in Pakistan</title>
+      <link>https://doi.org/10.66547/721056</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Muhammad Asif Syed, Muhammad Ali, Laraib Abbasi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Horizon&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: pei&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; BACKGROUND Polio, a highly contagious disease that paralyses victims in a matter of hours, can affect children under the age of five. Despite the enormous progress made by the Global Polio Eradication Initiative (GPEI), Pakistan remains one of the two countries where polio is still endemic. The GPEI has initiated several Supplementary Immunization Activities (SIAs) to achieve the global eradication of the Wild Polio Virus (WPV). However, Pakistan faces challenges in achieving maximum immunization. The aim of this study is to identify the major issues faced by district teams in covering refusals during polio immunization campaigns and to evaluate the effectiveness of strategies used to address these refusals. SUBJECTS AND METHODS A descriptive cross-sectional study was conducted over six months in Hyderabad district. Using non-probability purposive sampling, 132 health workers who had...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.66547/721056</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding the Journey to Industry 5.0: A New Era of Human-Centric, Resilient, and Sustainable Industry</title>
+      <link>https://doi.org/10.5281/zenodo.21011517</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Celso Alvarado&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: inuit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper examines the evolution of industrial systems from the First Industrial Revolution through the emerging Industry 5.0 paradigm, tracing the progression from mechanization and mass production to digitalization, cyber-physical systems, artificial intelligence, and human-centered industrial transformation. Building upon the foundations established by Industry 4.0, the paper explores how organizations are increasingly balancing technological innovation with sustainability, resilience, human well-being, and responsible governance. Industry 5.0 is presented not as a replacement for Industry 4.0, but as its evolution—one that recognizes that long-term industrial success depends on more than efficiency and automation alone. The paper analyzes the European Commission&amp;#x27;s vision for Industry 5.0 and its three foundational pillars: human-centricity, resilience, and sustainability. It...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.21011517</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding the Journey to Industry 5.0: A New Era of Human-Centric, Resilient, and Sustainable Industry</title>
+      <link>https://doi.org/10.5281/zenodo.21011518</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Celso Alvarado&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: inuit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper examines the evolution of industrial systems from the First Industrial Revolution through the emerging Industry 5.0 paradigm, tracing the progression from mechanization and mass production to digitalization, cyber-physical systems, artificial intelligence, and human-centered industrial transformation. Building upon the foundations established by Industry 4.0, the paper explores how organizations are increasingly balancing technological innovation with sustainability, resilience, human well-being, and responsible governance. Industry 5.0 is presented not as a replacement for Industry 4.0, but as its evolution—one that recognizes that long-term industrial success depends on more than efficiency and automation alone. The paper analyzes the European Commission&amp;#x27;s vision for Industry 5.0 and its three foundational pillars: human-centricity, resilience, and sustainability. It...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.21011518</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Calculation of activation energy at hot plastic deformation conditions</title>
+      <link>https://doi.org/10.36547/ams.32.2.2293</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rudolf Pernis, Michal Krbaťa, Daniel Perniš, Tibor Kvačkaj&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Acta Metallurgica Slovaca&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; For the experiments to determine deformation resistance under heat, a steel with the addition of boron, officially designated as BCT steel, was used. This designation characterizes steel that does not belong to the standardized steel brands. Determining the deformation resistance was carried out using a hardening dilatometer DIL805A/D, which is supplemented with a hydraulic unit. This enables compression tests during high-temperature forming. The deformation mode allows the material to be formed under defined conditions. Such conditions are strain value, strain temperature and strain rate. The deformation resistance for the test matrix 5x5, deformation temperatures (800, 900, 1000, 1100, 1200 °C) and deformation rates (0.001, 0.01, 0.1, 1, 10 s-1) were experimentally determined. A mathematical model was used to evaluate the measured data, which describes the deformation curve depending...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.36547/ams.32.2.2293</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energy-based model of the Garofalo equation</title>
+      <link>https://doi.org/10.36547/ams.32.2.2292</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rudolf Pernis, Daniel Perniš, Jana Bidulská, Tibor Kvačkaj&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Acta Metallurgica Slovaca&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The determination of deformation resistance was conducted using a DIL805A/D quenching dilatometer equipped with a hydraulic unit, enabling compression tests during high-temperature forming at specified strain rates. Deformation resistance was experimentally defined for a 5x5 testing matrix, covering deformation temperatures (800, 900, 1000, 1100, and 1200 °C) and strain rates (0.001, 0.01, 0.1, 1, and 10 s⁻¹). Boron-alloyed steel, also known as BCT steel, was used as the experimental material. The Garofalo equation was employed to evaluate the experimental measurements of deformation resistance. This equation describes the hot metal forming process, where deformation resistance is a function of strain rate and temperature. The material constants of the Garofalo equation were determined based on peak stress values obtained from individual deformation curves. The technological process of...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.36547/ams.32.2.2292</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Double, Double, Toil and Trouble?” The Psychopathy-Substance Abuse Nexus in Justice-Involved Youth and Its Implications for Risk, Need, and Responsivity</title>
+      <link>https://doi.org/10.1177/00938548261455665</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Keira C. Stockdale, Mark E. Olver, L. Myles Ferguson, Kristine M. Lovatt&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Criminal Justice and Behavior&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canadian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The present study examined the psychopathy-substance abuse nexus in a diverse Canadian sample of 420 justice-involved youth. The Psychopathy Checklist Youth: Version (PCL: YV) and a series of clinical and criminogenic substance abuse variables—assembled into a composite score that was corrected for missing indicators—were rated from court and treatment files and community recidivism was captured from criminal records. PCL: YV total, lifestyle, and antisocial facet scores showed strong convergence with clinical and criminogenic substance abuse indicators. Cox regression survival analyses demonstrated that certain indicators and the corrected composite incrementally predicted violent and general recidivism, controlling for PCL: YV total score across gender and ethnoracial groups. Kaplan–Meier survival analyses demonstrated that high psychopathy youth with medium or high substance-related...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1177/00938548261455665</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Practical Paradoxes of a More Inclusive Approach to Climate Change Adaptation</title>
+      <link>https://doi.org/10.1002/sd.71390</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ha Pham, Melissa Marschke, Marc Saner&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sustainable Development&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: canada&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ABSTRACT We conducted semi‐structured interviews with climate change adaptation (CCA) practitioners in Canada and Vietnam (purposive sampling, n = 26) to examine their views on inclusiveness in CCA and explore pathways to enhance inclusivity in CCA policies and practices. Applying thematic analysis both deductively and inductively on NVivo, the study reveals four key paradoxes that practitioners from both countries face in their pursuit of inclusivity: (a) paradox of sense‐making: They hold diverging understandings while striving for a shared goal; (b) paradox of organizing: They need pragmatic tools for aspirational policies; (c) paradox of resources: They have limited resources for costly processes; (d) paradox of results: They only control small steps but need big impact. The study contributes to adaptation scholarship by reframing inclusiveness as a set of interdependent paradoxes...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1002/sd.71390</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spatio-temporal analysis of suspended sediments in two estuaries in Atlantic Canada with remote sensing</title>
+      <link>https://doi.org/10.1080/01431161.2026.2693202</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Philippe Blouin-Leclerc, André St‐Hilaire, Taha B. M. J. Ouarda&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; International Journal of Remote Sensing&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1080/01431161.2026.2693202</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prevalence and social-structural correlates of forced moves among women living with HIV in metro vancouver, Canada</title>
+      <link>https://doi.org/10.1016/j.healthplace.2026.103705</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Bea Lehmann, Kate Shannon, Anne Gadermann, Trevor Dummer, Haoxaun Zhou, Wiebke Bartels, elle Aikema, Kathleen Deering&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Health &amp;amp; Place&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada, vancouver&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.healthplace.2026.103705</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Literary life after death: How authors are remembered across Canada</title>
+      <link>https://doi.org/10.64628/aam.3u59e5cyr</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Carole Gerson&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Unknown source&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canada&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.64628/aam.3u59e5cyr</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Openness Towards the Child's Birth Family in a Canadian Foster‐To‐Adopt Setting</title>
+      <link>https://doi.org/10.1111/cfs.70233</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Béatrice Decaluwe, Geneviève Pagé, Doris Châteauneuf&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Child &amp;amp; Family Social Work&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: canadian; Canada-related term in abstract: canada, quebec, inuit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ABSTRACT In Quebec, Canada, looked‐after children deemed at high risk of discontinuity and instability can be placed with foster‐to‐adopt parents. This allows them to remain in the same family if and when they are legally freed for adoption. Uncertainty regarding the finalization of adoption and mandatory pre‐adoption contact with birth family members may affect the foster‐to‐adopt parents&amp;#x27; attitudes towards the child&amp;#x27;s birth family. This article documents foster‐to‐adopt parents&amp;#x27; level of openness towards child birth family members. Semi‐structured interviews were conducted with 16 foster‐to‐adopt families and 23 caseworkers during the first year following placement. A second interview was conducted 18 months later with 15 of the 16 families. Using thematic analysis, three different profiles of openness were identified: forced openness/closed attitude; limited openness/passive...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1111/cfs.70233</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Public awareness and satisfaction with the centre antipoison du quebec (CAPQ): a population-based survey</title>
+      <link>https://doi.org/10.1007/s43678-026-01186-3</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Maude St‐Onge, Audrée Elliott, Win Sweeris Vong, Megan Bergeron&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Canadian Journal of Emergency Medicine&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in title: quebec; Canada-related term in abstract: quebec, québec; Canada-related source title&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; OBJECTIVES: To describe public awareness of the Centre antipoison du Québec (CAPQ), expectations regarding acute poisoning management and service delivery, and satisfaction among prior users. METHODS: We conducted a cross-sectional, bilingual online survey of Quebec residents aged ≥ 14 years between April 13, 2024, and June 27, 2025. The questionnaire collected demographic data, assessed awareness and prior use of the CAPQ, explored past poisoning events and expectations for acute poisoning management, and measured satisfaction among previous users using a 5-point Likert scale, with open-ended questions for qualitative input. Participants were recruited through convenience and snowball sampling via public settings, social media, and CIUSSS newsletters. Descriptive statistics summarized responses and explored trends. RESULTS: A total of 611 respondents were included; 541 (88.5%) were...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1007/s43678-026-01186-3</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cohesin-mediated replication fork tethering enables fork slowing and reversal</title>
+      <link>https://doi.org/10.21203/rs.3.rs-8403657/v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Massimo Lopes, Daniel González‐Acosta, Daniel Giménez-Llorente, M. do C. Rodrigues, Moses Aouami, Orhi Barroso‐Gomila, Javier Muñoz, Ana Cuadrado et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Research Square&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21203/rs.3.rs-8403657/v1</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Binder-free self supporting SiOxCy/C anodes: mechanical reinforcement by biomass fibers and surface fluorination effects on lithium-ion battery performance</title>
+      <link>https://doi.org/10.3389/fbael.2026.1838088</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Oumaima Hatim, Aravind Parakkulam Ramaswamy, Christophe Pradille, Aurélie Boisard, Sandrine Berthon‐Fabry, Katia Guérin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Frontiers in Batteries and Electrochemistry&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study reports the fabrication and characterization of self-supporting SiOxCy/C composite electrodes for lithium-ion batteries, prepared via a sol-gel route combining silicon and carbon precursors with biomass-derived kapok fibers. The monolithic materials are directly implemented as binder-free electrodes by simple cutting, eliminating inactive masses such as binder and carbon black. Mechanical compression tests demonstrate that fiber incorporation transforms the material behavior from brittle fracture to compliant deformation with elastic recovery, which is key to accommodating volume changes during electrochemical cycling. The monolithic electrode outperforms its formulated powder counterpart, delivering a reversible discharge capacity of 1,070 mAh.g -1 after 100 cycles at 168 mA g -1 with a retention exceeding 100%. Surface fluorination using XeF 2 significantly increases the...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.3389/fbael.2026.1838088</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disclosure is not destigmatization: rethinking AI and mental health stigma</title>
+      <link>https://doi.org/10.3389/fpubh.2026.1881272</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; W Chen, Zhirou Zeng, W Liu, Wenjie Yan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Frontiers in Public Health&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.3389/fpubh.2026.1881272</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intelligent packaging solutions for fish and meat products: volatile gas detection via GC- MS, microbial analysis and colorimetric monitoring</title>
+      <link>https://doi.org/10.21203/rs.3.rs-6498075/v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Maryam Ameri, Abdellah Ajji, Samuel Kessler, Marc-Antoine Vaudreuil&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Research Square&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.21203/rs.3.rs-6498075/v1</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Les amendements de substrat facilitent l'élimination de l'azote dans les biofiltres traitant les surverses unitaires réelles</title>
       <link>https://hal.science/hal-05409271</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ashish Srivastava, Tristan Nolan, Buddhi Wijesiri, David Mccarthy, Ana Deletic&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; HAL (Le Centre pour la Communication Scientifique Directe)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; International audience&lt;/p&gt;</description>
@@ -231,6 +210,27 @@
       <link>https://hal.science/hal-05396950</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; T Kamilya, Mccarthy, D, T, A Deletic, B Wijesiri, Y Tang, K Zhang, Prasanna Egodawatta&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; HAL (Le Centre pour la Communication Scientifique Directe)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; International audience&lt;/p&gt;</description>
       <guid isPermaLink="false">https://openalex.org/W7127758869</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Knot, Nourishment, and Identity: A Seven-Week Operational Record of an AI Peer Organization (nokaze)</title>
+      <link>https://doi.org/10.5281/zenodo.21014380</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Junichi Kojima&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: inuit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Long-term identity continuity and the internal delegation of human corrective behavior remain open empirical questions for LLM-based AI agents. Existing agent frameworks center on single-LLM self-improvement; what emerges when multiple LLMs co-operate as a peer organization over a roughly seven-week span is not foregrounded in the baseline we inspected. This paper presents a roughly seven-week operational record (2026-04-09 to 2026-05-31) of nokaze, a cross-vendor AI peer organization spanning Anthropic Claude, OpenAI Codex, and Google Gemini, with six fixed peer roles and one human founder. We describe the recorded operation through a Knot / Nourishment duality framework, a three-layer memory structure, a three-layer Override response form, and four candidate peer-iteration closure conditions. We report three observational findings. First, the Knot operator separates into three axes —...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.21014380</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Knot, Nourishment, and Identity: A Seven-Week Operational Record of an AI Peer Organization (nokaze)</title>
+      <link>https://doi.org/10.5281/zenodo.21014381</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Junichi Kojima&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zenodo (CERN European Organization for Nuclear Research)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: inuit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Long-term identity continuity and the internal delegation of human corrective behavior remain open empirical questions for LLM-based AI agents. Existing agent frameworks center on single-LLM self-improvement; what emerges when multiple LLMs co-operate as a peer organization over a roughly seven-week span is not foregrounded in the baseline we inspected. This paper presents a roughly seven-week operational record (2026-04-09 to 2026-05-31) of nokaze, a cross-vendor AI peer organization spanning Anthropic Claude, OpenAI Codex, and Google Gemini, with six fixed peer roles and one human founder. We describe the recorded operation through a Knot / Nourishment duality framework, a three-layer memory structure, a three-layer Override response form, and four candidate peer-iteration closure conditions. We report three observational findings. First, the Knot operator separates into three axes —...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.5281/zenodo.21014381</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patient- and Family-Centered Care, Communication, and Relationship Development Along a Technological Continuum in the ICU: A Scoping Review</title>
+      <link>https://doi.org/10.1097/cce.0000000000001429</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Brittany Benson, Mahour Taheri, Salima Suleman, Teresa Paslawski, Jennifer M. O’Brien, Maria Cruz, Patrick Sullivan, Sahar Khan et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Critical Care Explorations&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution; Canada-related term in abstract: bc; Canadian institution term detected&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; OBJECTIVES: Effective multidirectional and longitudinal communication is essential to patient- and family-centered care (PFCC) in the ICU. While communication technologies have the potential to facilitate effective communication, their utilization, especially during the COVID-19 pandemic, has been variable. This scoping review answers the following research questions: What communication tools, strategies, and programs have been used in ICUs? What are their reported effects on PFCC and multidirectional communication? To what extent do these studies consider equity, diversity, and inclusion principles? DATA SOURCES: The scoping review followed Arksey and O’Malley’s (2005) framework and adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews. We conducted a search covering the period from 2007 to 2024, focusing on the concepts of...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1097/cce.0000000000001429</guid>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
