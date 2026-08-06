@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 14:28:59 +0000</lastBuildDate>
-    <item>
-      <title>Innovative strategies to reduce heart failure hospitalizations: insights from the ESC heart failure congress 2026</title>
-      <link>https://doi.org/10.1007/s10741-026-10662-y</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kate Haichin, Janie Leroux, Nadia Giannetti, Abhinav Sharma&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Heart Failure Reviews&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.1007/s10741-026-10662-y</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inactivation of interleukin-15 reduces spontaneous atherosclerosis in apolipoprotein E-deficient mice</title>
-      <link>https://doi.org/10.3389/fphys.2026.1859434</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Omid Dadoo, Bibi S.H. Sokeechand, Anna Lee, Mark Fuller, Yu Chang David Wang, Melissa E. MacDonald, Nicole L. Batenburg, Suleiman A. Igdoura et al.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Frontiers in Physiology&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction Interleukin (IL)-15 is essential for the survival and maturation of natural killer (NK) and CD8 + T cells, and it directly activates macrophages. Methods In the present study, we examined the effects of inactivating Il-15 on atherosclerosis in apolipoprotein (apo) E -deficient mice. Results and discussion As expected, Il-15 deficiency reduced circulating NK and CD8 + T cells in ApoE −/− mice. It also increased body weights in female but not male ApoE −/− mice and increased plasma total cholesterol levels in both. Despite this, the Il-15 knockout reduced spontaneous atherosclerotic plaque development in both male and female ApoE −/− mice (fed a normal diet) at 25 weeks of age, and in female normal diet-fed ApoE −/− mice at 15 weeks but not at 38 weeks of age. Furthermore, Il-15 knockout did not impact the levels of atherosclerosis in 25-week-old female ApoE −/− mice fed a...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://doi.org/10.3389/fphys.2026.1859434</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Aug 2026 14:31:48 +0000</lastBuildDate>
     <item>
       <title>Multiple micronutrient supplements (MMS) for adolescent girls: are we getting carried away by the hype?</title>
       <link>https://doi.org/10.1186/s40795-026-01449-3</link>
@@ -42,6 +28,20 @@
       <link>https://doi.org/10.1007/s10664-026-10936-x</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kaveh Shahedi, Nana Gyambrah, Heng Li, Maxime Lamothe, Foutse Khomh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Empirical Software Engineering&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;</description>
       <guid isPermaLink="false">https://doi.org/10.1007/s10664-026-10936-x</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Armistice of the Sexes: Gender Complementarities in the Production Function</title>
+      <link>https://doi.org/10.1080/13545701.2026.2628793</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Raphaël Espinoza, Jonathan D. Ostry, Chris Papageorgiou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Feminist Economics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Most macroeconomic and growth accounting models assume that male and female workers are perfectly substitutable in the aggregate production function. Whether this assumption is valid is an empirical question that this article aims to answer by estimating the elasticity of substitution (ES) between female and male labor. This study applies linear and non-linear techniques to firm-level data, cross-country sectoral data, and cross-country aggregate data. Findings show that women and men are far from being perfect substitutes in production, a result that is consistent with much microeconomic evidence, but has not permeated to macroeconomics. The failure to account for imperfect gender substitutability has far-reaching implications. Standard growth accounting exercises are likely to attribute to technological progress gains that are more properly attributable to the impact of greater gender...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1080/13545701.2026.2628793</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Memory-efficient backpropagation through large linear layers</title>
+      <link>https://doi.org/10.1080/10556788.2026.2707209</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Daniel Bershatsky, Aleksandr Mikhalev, Alexandr Katrutsa, Julia Gusak, Daniil Merkulov, Ivan Oseledets&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Optimization methods &amp;amp; software&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why included:&lt;/strong&gt; Canadian-affiliated author or institution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In modern neural networks like Transformers, linear layers require significant memory to store activations during backward pass. This study proposes a memory reduction approach to perform backpropagation through linear layers. Since the gradients of linear layers are computed by matrix multiplications, we consider methods for randomized matrix multiplications and demonstrate that they require less memory with a moderate decrease of the test accuracy. Also, we investigate the variance of the gradient estimate induced by the randomized matrix multiplication. We compare this variance with the variance coming from gradient estimation based on the batch of samples. We demonstrate the benefits of the proposed method on the fine-tuning of the pre-trained RoBERTa model on GLUE tasks.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://doi.org/10.1080/10556788.2026.2707209</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
