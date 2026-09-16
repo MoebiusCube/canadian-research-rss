@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:53:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:48:00 +0000</lastBuildDate>
     <item>
       <title>Physics-Guided Sequential State Space Transformer (PS3T) for Projection Domain LDCT Denoising</title>
       <link>https://doi.org/10.3390/signals7050089</link>
